@@ -2,6 +2,8 @@
 
 Selekcjonowana lista polskojęzycznych zasobów przeznaczonych dla osób w Spektrum Autyzmu.
 
+{:toc}
+
 ## Blogerzy / Samorzecznicy
 
 - [Amanda Waliszewska](https://www.facebook.com/walmanda?) - a.k.a hakierka
