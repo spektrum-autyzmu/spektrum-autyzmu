@@ -1,7 +1,7 @@
 
-{:toc}
+* TOC {:toc}
 
-## Blogerzy / Samorzecznicy
+# Blogerzy / Samorzecznicy
 
 - [Amanda Waliszewska](https://www.facebook.com/walmanda?) - a.k.a hakierka
 - [Autentyczna Autystyczna](https://www.instagram.com/autentyczna_autystyczna/) - Jestem autystyczna. Zdiagnozowana, ale
@@ -32,7 +32,7 @@
 - [Zza tęczowej szyby](https://www.facebook.com/zzateczowejszyby/) - Zza tęczowej szyby autyzmu Pola opisuje całe
   spektrum doświadczeń
 
-## Grupy fejsbókowe
+# Grupy fejsbókowe
 
 - [ADHD, Zespół Aspergera, Autyzm - Warszawa i okolice](https://www.facebook.com/groups/ADHD.ZespolAspergera.Autyzm.Warszawa.i.okolice/)
 - [Autystawka](https://www.facebook.com/groups/Autystawka/) - Sekcja poświęcona zagadnieniom związanym ze spektrum
@@ -46,11 +46,11 @@
 - [Zespół Aspergera Polska](https://www.facebook.com/groups/AspergerPolska/) - Grupa przeznaczona jest dla osób, które
   mają zespół Aspergera lub chcą dowiedzieć się więcej na jego temat.
 
-## Fora internetowe
+# Fora internetowe
 
 - [aspi.net.pl](aspi.net.pl) - Forum dla osób dorosłych z Zespołem Aspergera / NLD / autyzmem wysokofunkcjonującym
 
-## Oraganizacje
+# Oraganizacje
 
 - [Fundacja Artonomia](http://artonomia.org/)
 - [Aspiracje](http://aspiracje.com.pl/) - autyzm na koszulkach
@@ -62,7 +62,7 @@
 - [Fundacja Prodeste](http://www.prodeste.pl/)
 - [Neuroróżnorodni](https://www.facebook.com/neurodiversitymovementPL/)
 
-## Książki
+# Książki
 
 - Tony Attwood
     - Zespół Aspergera

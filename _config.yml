@@ -3,4 +3,5 @@ description: Selekcjonowana lista polskojęzycznych zasobów przeznaczonych dla 
 
 lang: pl-PL
 
-remote_theme: spektrum-autyzmu/tactile
+theme: jekyll-theme-slate
+show_downloads: false
