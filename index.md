@@ -89,7 +89,7 @@
     - Myślenie obrazami
     - Mózg autystyczny
 - Sarah Hendrickx
-    - Kobiety i dziewczyny ze spektrum autyzmu
+    - Kobiety i dziewczyny ze spektrum autyzmu [recenzja Moe](https://www.instagram.com/p/CJnXsy0sqRE/)
 - Naoki Higashida
     - Dlaczego podskakuję
 - Liane Holiday Willey
@@ -98,6 +98,7 @@
     - Wszystkie koty mają Zespół Aspergera
     - Wszystkie psy mają ADHD
 - Lucke Jackson
+    - Seks, prochy i zespół Aspergera [recenzja Moe]](https://www.instagram.com/p/CK8pAqeH9LG/)
     - Świry, dziwadła i Zespół Aspergera
 - Mirka Jaworska
     - Syndrom czerwonej hulajnogi
@@ -106,7 +107,7 @@
 - Katja
     - Koci świat ASD
 - Cynthia Kim
-    - Nieśmiali, skryci i społecznie niedopasowani
+    - Nieśmiali, skryci i społecznie niedopasowani [recenzja Moe]](https://www.instagram.com/p/CJtBc5-Mbhf/)
 - Marta Kisiel
     - Małe licho i anioł z kamienia
 - Cathleen Lewis
@@ -126,15 +127,15 @@
     - Pieśni plemienia goryli
 - John Elder Robison
     - Jestem inny. Moje wskazówki dla aspich, ich rodzin i terapeutów
-    - Patrz mi w oczy
+    - Patrz mi w oczy [recenzja Moe](https://www.instagram.com/p/CL7TzFrHC1l/)
     - Wychowujemy Misiaka
 - Peter Schmidt
     - Chłopiec z Saturna
     - Kaktus na walentynki
 - Steve Silberman
     - Neuroplemiona. Dziedzictwo autyzmu i przyszłość neuroróżnorodności
-- Rudy Simon
-    - Aspergirls
+- Rudy Simone
+    - Aspergirls [recenzja Moe](https://www.instagram.com/p/CKD-0UPHQjt/)
 - Daniel Tammet
     - Urodziłem się pewnego błękitnego dnia
 - Donny Williams
