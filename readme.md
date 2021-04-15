@@ -1,3 +1,5 @@
+# [Spektrum autyzmu](https://spektrum-autyzmu.github.io/)
+
 Selekcjonowana lista polskojęzycznych zasobów przeznaczonych dla osób w Spektrum Autyzmu.
 
 ---
@@ -11,6 +13,8 @@ Projekt jest wzorowany na popularnych głównie w środowisku IT Awesome lists.
 Zasobem nazywam stronę osoby, organizacji, społeczności albo społeczność w realu. Jeśli masz lepsze słowo, zerknij na dół strony.
 
 Ogólnie na listę powinny trafić zasoby już dość popularne, tj, nie wykorzystujemy listy do promowania nowych zasobów ani takich, które nie zyskały szerszego rozgłosu. Ponadto powinny być to zasoby żywe - blogi powinny być aktualizowane, organizacje i społeczności aktywne. 
+
+Zobacz też [listę zasobów na które nie kierujemy](nogolist.md)
 
 - Blogerzy i samorzecznicy
     - blogi osób w spektrum - kto inny lepiej zrozumie asa niż inny as ;)
