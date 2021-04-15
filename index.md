@@ -4,9 +4,9 @@ Selekcjonowana lista polskojęzycznych zasobów przeznaczonych dla osób w Spekt
 
 ## Blogerzy / Samorzecznicy
 
-- [Autistic Snapshots /Photography & asperger](https://www.facebook.com/aspiphotography) - Autism, Aspergers syndrome, self-advocacy, research news, autism life-hacks ;) & photography
 - [Amanda Waliszewska](https://www.facebook.com/walmanda?) - a.k.a hakierka
 - [Autentyczna Autystyczna](https://www.instagram.com/autentyczna_autystyczna/) - Jestem autystyczna. Zdiagnozowana, ale nadal niedowierzająca.
+- [Autistic Snapshots /Photography & asperger](https://www.facebook.com/aspiphotography) - Autism, Aspergers syndrome, self-advocacy, research news, autism life-hacks ;) & photography
 - [Autystyczne czytajki](https://www.instagram.com/autystyczne.czytajki/) - recenzuję książki o autyzmie i staram się rozpowszechniać progresywne poglądy na neuroróżnorodność
 - [Autyzm i życie z zespołem Aspergera](https://www.facebook.com/zespolasperger) - Blog 38 latka o autyzmie i zespole Aspergera.
 - [Ida ma autyzm](https://www.instagram.com/ida_ma_autyzm/) - Zwyczajna autystyczna dziewczyna
@@ -19,7 +19,10 @@ Selekcjonowana lista polskojęzycznych zasobów przeznaczonych dla osób w Spekt
 - [Psycholog w sieci](https://www.facebook.com/psychologwsieci)
 - [Psycholog na spektrum](https://www.facebook.com/Psycholognaspektrum)
 - [Ruda w spektrum](https://www.instagram.com/ruda_w_spektrum/)
+- [Silent Forge](https://www.facebook.com/SilentForge/) - Blog o życiu z Zespołem Aspergera
 - [Szarosen](https://www.facebook.com/szarosen) - Rysowniczka (jeden z jej rysunków pojawił się na plakatach w całej Polsce)
+- [Ta, co nie wyrosła](https://www.facebook.com/Ta-co-nie-wyros%C5%82a-409330616310909/) - Życie, doświadczenia, spostrzeżenia i przemyślenia kobiety na spektrum autyzmu.
+- [ZAburzona - autyzm, depresja i inne demony](https://www.facebook.com/ZAburzona-autyzm-depresja-i-inne-demony-103309048149750/)
 - [Zza tęczowej szyby](https://www.facebook.com/zzateczowejszyby/) - Zza tęczowej szyby autyzmu Pola opisuje całe spektrum doświadczeń
 
 ## Grupy fejsbókowe
@@ -45,6 +48,7 @@ Selekcjonowana lista polskojęzycznych zasobów przeznaczonych dla osób w Spekt
 - [Autyzm Startup](https://autyzm-startup.pl/)
 - [Fundacja Dziewczyny w spektrum](https://dziewczynawspektrum.wordpress.com/)
 - [Jasna strona spektrum](https://jasnastronaspektrum.pl/) - grupa samorzeczników
+- [JAsperger](https://www.facebook.com/JAspergerPL/) - JAsperger to strona, która ma edukować i rozprawiać się z mitami o Zespole Aspergera. To próba ulepszania świata :)
 - [Fundacja Prodeste](http://www.prodeste.pl/)
 - [Neuroróżnorodni](https://www.facebook.com/neurodiversitymovementPL/)
 
