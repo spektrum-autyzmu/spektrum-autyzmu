@@ -1,5 +1,4 @@
 - Spis treści
-
 {:toc}
 
 # Blogerzy / Samorzecznicy
