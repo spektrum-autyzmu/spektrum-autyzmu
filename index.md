@@ -1,4 +1,4 @@
-# Spektrum Autyzmu (Awesome List)
+#awesome list
 
 Selekcjonowana lista polskojęzycznych zasobów przeznaczonych dla osób w Spektrum Autyzmu.
 
