@@ -91,15 +91,28 @@ Selekcjonowana lista polskojęzycznych zasobów przeznaczonych dla osób w Spekt
 
 ## Oraganizacje
 
-- [Jasna strona spektrum](https://jasnastronaspektrum.pl/), [strona na fejsbóku](https://www.facebook.com/jasnastronaspektrum/) - grupa samorzeczników
+- [Fundacja Artonomia](http://artonomia.org/)
+- [Aspiracje](http://aspiracje.com.pl/) - autyzm na koszulkach
+- [Fundacja Dziewczyny w spektrum](https://dziewczynawspektrum.wordpress.com/)
+- [Jasna strona spektrum](https://jasnastronaspektrum.pl/) - grupa samorzeczników
+- [Fundacja Prodeste](http://www.prodeste.pl/)
+- [Neuroróżnorodni](https://www.facebook.com/neurodiversitymovementPL/)
 - [Synapsis](https://synapsis.org.pl/) - Fundacja dla dzieci i dorosłych z autyzmem
 
 ## Samorzecznicy / blogerzy
 
-- [Autyzm i życie z zespołem Aspergera](https://www.facebook.com/zespolasperger) - Blog 38 latka o autyzmie i zespole Aspergera. Traktujcie to miejsce jako poradnik i pamiętnik. :)
-- [Pisarka na spektrum](https://pisarkanaspektrum.pl/) oraz jej [strona na Fejsbóku](https://www.facebook.com/pisarkanaspektrum/)
+- [Autentyczna Autystyczna](https://www.instagram.com/autentyczna_autystyczna/) - Jestem autystyczna. Zdiagnozowana, ale nadal niedowierzająca.
+- [Autystyczne czytajki](https://www.instagram.com/autystyczne.czytajki/) - recenzuję książki o autyzmie i staram się rozpowszechniać progresywne poglądy na neuroróżnorodność
+- [Autyzm i życie z zespołem Aspergera](https://www.facebook.com/zespolasperger) - Blog 38 latka o autyzmie i zespole Aspergera.
+- [Ida ma autyzm](https://www.instagram.com/ida_ma_autyzm/) - Zwyczajna autystyczna dziewczyna
+- [I'm Aspieman](https://www.youtube.com/channel/UCnZjTzN_PIHkdpDiS8sE-zQ)
+- [Ja, Asperger](https://www.facebook.com/wkapeluszukosmity/) - Blog o codzienności odbieranej w nieco odmienny sposób
+- [Neuroatypowe](https://www.youtube.com/channel/UCu3Wj7CHUGzRwG0ri2FESCA) - Trzy autystyczne kobiety. Trzy osobowości, trzy spojrzenia. Zapraszamy do naszego świata.
+- [Pisarka na spektrum](https://pisarkanaspektrum.pl/)
 - [Psycholog na spektrum](https://www.facebook.com/Psycholognaspektrum/)
-- [Szarosen](https://www.facebook.com/szarosen) - Rysowniczka
+- [Ruda w spektrum](https://www.instagram.com/ruda_w_spektrum/)
+- [Szarosen](https://www.facebook.com/szarosen) - Rysowniczka (jeden z jej rysunków pojawił się na plakatach w całej Polsce)
+- [Zza tęczowej szyby](https://www.facebook.com/zzateczowejszyby/) - Zza tęczowej szyby autyzmu Pola opisuje całe spektrum doświadczeń
 
 ## Grupy FB
 
