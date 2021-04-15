@@ -1,5 +1,6 @@
 
-* TOC {:toc}
+* TOC
+{:toc}
 
 # Blogerzy / Samorzecznicy
 
