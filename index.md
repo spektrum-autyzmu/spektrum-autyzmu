@@ -33,23 +33,20 @@
 - [Zza tęczowej szyby](https://www.facebook.com/zzateczowejszyby/) - Zza tęczowej szyby autyzmu Pola opisuje całe
   spektrum doświadczeń
 
-# Grupy fejsbókowe
+# Społeczności internetowe
 
 - [ADHD, Zespół Aspergera, Autyzm - Warszawa i okolice](https://www.facebook.com/groups/ADHD.ZespolAspergera.Autyzm.Warszawa.i.okolice/)
+- [aspi.net.pl](aspi.net.pl) - Forum dla osób dorosłych z Zespołem Aspergera / NLD / autyzmem wysokofunkcjonującym. Mają kanał IRC oraz spotkania na Skype
 - [Autystawka](https://www.facebook.com/groups/Autystawka/) - Sekcja poświęcona zagadnieniom związanym ze spektrum
   autyzmu, otwarta również dla neurotypowych zainteresowanych tematem.
 - [Autyzm - autentyczność w życiu](https://www.facebook.com/groups/206891433393003/)
 - [Autyzm, dorosłość i co dalej](https://www.facebook.com/groups/autyzm.doroslosc/)
-- [Dorośli z Zespołem Aspergera](https://www.facebook.com/groups/1112099868832792/)
+- [Dorośli z Zespołem Aspergera](https://www.facebook.com/groups/1112099868832792/) Grupa dla dorosłych z ZA. Ma spotkania na Discord.
 - [Events](https://www.facebook.com/groups/897320763955792/) - projekt spotkań dla osób z autyzmem, ZA i znajomych.
 - [JAsperger](https://www.facebook.com/groups/2518801461690163/) - grupa dla osób z Aspergerem (i ludzi wokół)
 - [Zespół Aspergera](https://www.facebook.com/groups/zespolaspergera/)
 - [Zespół Aspergera Polska](https://www.facebook.com/groups/AspergerPolska/) - Grupa przeznaczona jest dla osób, które
   mają zespół Aspergera lub chcą dowiedzieć się więcej na jego temat.
-
-# Fora internetowe
-
-- [aspi.net.pl](aspi.net.pl) - Forum dla osób dorosłych z Zespołem Aspergera / NLD / autyzmem wysokofunkcjonującym
 
 # Oraganizacje
 
@@ -89,7 +86,8 @@
     - Myślenie obrazami
     - Mózg autystyczny
 - Sarah Hendrickx
-    - Kobiety i dziewczyny ze spektrum autyzmu [recenzja Moe](https://www.instagram.com/p/CJnXsy0sqRE/)
+    - Kobiety i dziewczyny ze spektrum autyzmu
+        - [recenzja Moe](https://www.instagram.com/p/CJnXsy0sqRE/)
 - Naoki Higashida
     - Dlaczego podskakuję
 - Liane Holiday Willey
@@ -98,7 +96,8 @@
     - Wszystkie koty mają Zespół Aspergera
     - Wszystkie psy mają ADHD
 - Lucke Jackson
-    - Seks, prochy i zespół Aspergera [recenzja Moe]](https://www.instagram.com/p/CK8pAqeH9LG/)
+    - Seks, prochy i zespół Aspergera
+        - [recenzja Moe](https://www.instagram.com/p/CK8pAqeH9LG/)
     - Świry, dziwadła i Zespół Aspergera
 - Mirka Jaworska
     - Syndrom czerwonej hulajnogi
@@ -107,7 +106,8 @@
 - Katja
     - Koci świat ASD
 - Cynthia Kim
-    - Nieśmiali, skryci i społecznie niedopasowani [recenzja Moe]](https://www.instagram.com/p/CJtBc5-Mbhf/)
+    - Nieśmiali, skryci i społecznie niedopasowani
+        - [recenzja Moe](https://www.instagram.com/p/CJtBc5-Mbhf/)
 - Marta Kisiel
     - Małe licho i anioł z kamienia
 - Cathleen Lewis
@@ -127,7 +127,8 @@
     - Pieśni plemienia goryli
 - John Elder Robison
     - Jestem inny. Moje wskazówki dla aspich, ich rodzin i terapeutów
-    - Patrz mi w oczy [recenzja Moe](https://www.instagram.com/p/CL7TzFrHC1l/)
+    - Patrz mi w oczy
+        - [recenzja Moe](https://www.instagram.com/p/CL7TzFrHC1l/)
     - Wychowujemy Misiaka
 - Peter Schmidt
     - Chłopiec z Saturna
@@ -135,7 +136,8 @@
 - Steve Silberman
     - Neuroplemiona. Dziedzictwo autyzmu i przyszłość neuroróżnorodności
 - Rudy Simone
-    - Aspergirls [recenzja Moe](https://www.instagram.com/p/CKD-0UPHQjt/)
+    - Aspergirls
+        - [recenzja Moe](https://www.instagram.com/p/CKD-0UPHQjt/)
 - Daniel Tammet
     - Urodziłem się pewnego błękitnego dnia
 - Donny Williams
@@ -144,3 +146,7 @@
     - Inne, ale nie gorsze
 - Dietmar Zöller
     - Gdybym mógł z wami rozmawiać
+
+
+# Jak wesprzeć
+Jeśli uważasz, że czegoś na liście brakuje, czegoś jest za dużo, albo można ją zrobić lepiej, przejdź do "kuchni" [projektu](https://github.com/spektrum-autyzmu/spektrum-autyzmu.github.io/), zarejestruj Pull Request, albo zgłoś błąd.
