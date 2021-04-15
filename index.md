@@ -1,12 +1,13 @@
-
 - Spis treści
+
 {:toc}
 
 # Blogerzy / Samorzecznicy
 
 - [Amanda Waliszewska](https://www.facebook.com/walmanda?) - a.k.a hakierka
-- [Autentyczna Autystyczna](https://www.instagram.com/autentyczna_autystyczna/) - Jestem autystyczna. Zdiagnozowana, ale
-  nadal niedowierzająca.
+- [Agnieszka Żak](https://www.instagram.com/agnieszkazakautorka/)
+- [aspergerka](https://www.instagram.com/aspergerka/) - Blaski i cienie dorosłego życia w spektrum autyzmu. Biseksualna
+  aspi samorzeczniczka.
 - [Autistic Snapshots /Photography & asperger](https://www.facebook.com/aspiphotography) - Autism, Aspergers syndrome,
   self-advocacy, research news, autism life-hacks ;) & photography
 - [Autystyczne czytajki](https://www.instagram.com/autystyczne.czytajki/) - recenzuję książki o autyzmie i staram się
@@ -16,6 +17,9 @@
 - [Ida ma autyzm](https://www.instagram.com/ida_ma_autyzm/) - Zwyczajna autystyczna dziewczyna
 - [I'm Aspieman](https://www.youtube.com/channel/UCnZjTzN_PIHkdpDiS8sE-zQ)
 - [Ja, Asperger](https://www.facebook.com/wkapeluszukosmity/) - Blog o codzienności odbieranej w nieco odmienny sposób
+- [Joanna Ławicka](https://www.instagram.com/aska_lawicka/) - nie tylko zdjęcia kotków
+- [Katarzyna Zwolska-Płusa](https://www.instagram.com/k.zwolskaplusa/) - poezja i proza
+- [Lola Eyeonyou Potocki](https://www.instagram.com/lola_eyeonyou_potocki/) - artystka
 - [Neuroatypowe](https://www.youtube.com/channel/UCu3Wj7CHUGzRwG0ri2FESCA) - Trzy autystyczne kobiety. Trzy osobowości,
   trzy spojrzenia. Zapraszamy do naszego świata.
 - [Nie umiem w dorosłość](https://www.facebook.com/Nie-umiem-w-doros%C5%82o%C5%9B%C4%87-100189304984590/)
@@ -36,12 +40,14 @@
 # Społeczności internetowe
 
 - [ADHD, Zespół Aspergera, Autyzm - Warszawa i okolice](https://www.facebook.com/groups/ADHD.ZespolAspergera.Autyzm.Warszawa.i.okolice/)
-- [aspi.net.pl](aspi.net.pl) - Forum dla osób dorosłych z Zespołem Aspergera / NLD / autyzmem wysokofunkcjonującym. Mają kanał IRC oraz spotkania na Skype
+- [aspi.net.pl](aspi.net.pl) - Forum dla osób dorosłych z Zespołem Aspergera / NLD / autyzmem wysokofunkcjonującym. Mają
+  kanał IRC oraz spotkania na Skype
 - [Autystawka](https://www.facebook.com/groups/Autystawka/) - Sekcja poświęcona zagadnieniom związanym ze spektrum
   autyzmu, otwarta również dla neurotypowych zainteresowanych tematem.
 - [Autyzm - autentyczność w życiu](https://www.facebook.com/groups/206891433393003/)
 - [Autyzm, dorosłość i co dalej](https://www.facebook.com/groups/autyzm.doroslosc/)
-- [Dorośli z Zespołem Aspergera](https://www.facebook.com/groups/1112099868832792/) Grupa dla dorosłych z ZA. Ma spotkania na Discord.
+- [Dorośli z Zespołem Aspergera](https://www.facebook.com/groups/1112099868832792/) Grupa dla dorosłych z ZA. Ma
+  spotkania na Discord.
 - [Events](https://www.facebook.com/groups/897320763955792/) - projekt spotkań dla osób z autyzmem, ZA i znajomych.
 - [JAsperger](https://www.facebook.com/groups/2518801461690163/) - grupa dla osób z Aspergerem (i ludzi wokół)
 - [Zespół Aspergera](https://www.facebook.com/groups/zespolaspergera/)
@@ -147,6 +153,8 @@
 - Dietmar Zöller
     - Gdybym mógł z wami rozmawiać
 
-
 # Jak wesprzeć
-Jeśli uważasz, że czegoś na liście brakuje, czegoś jest za dużo, albo można ją zrobić lepiej, przejdź do "kuchni" [projektu](https://github.com/spektrum-autyzmu/spektrum-autyzmu.github.io/), zarejestruj Pull Request, albo zgłoś błąd.
+
+Jeśli uważasz, że czegoś na liście brakuje, czegoś jest za dużo, albo można ją zrobić lepiej, przejdź do "
+kuchni" [projektu](https://github.com/spektrum-autyzmu/spektrum-autyzmu.github.io/), zarejestruj Pull Request, albo
+zgłoś błąd.
