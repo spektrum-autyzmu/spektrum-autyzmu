@@ -27,7 +27,7 @@ Selekcjonowana lista polskojęzycznych zasobów przeznaczonych dla osób w Spekt
 - Krystian Głuszko
     - Spektrum
     - Szukaj mnie wśród szaleńców
-- Temple Gradin
+- Temple Grandin
     - Byłam dzieckiem autystycznym
     - Myślenie obrazami
     - Mózg autystyczny
