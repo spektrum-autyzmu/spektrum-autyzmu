@@ -1,20 +1,22 @@
-#awesome list
-
-Selekcjonowana lista polskojęzycznych zasobów przeznaczonych dla osób w Spektrum Autyzmu.
 
 {:toc}
 
 ## Blogerzy / Samorzecznicy
 
 - [Amanda Waliszewska](https://www.facebook.com/walmanda?) - a.k.a hakierka
-- [Autentyczna Autystyczna](https://www.instagram.com/autentyczna_autystyczna/) - Jestem autystyczna. Zdiagnozowana, ale nadal niedowierzająca.
-- [Autistic Snapshots /Photography & asperger](https://www.facebook.com/aspiphotography) - Autism, Aspergers syndrome, self-advocacy, research news, autism life-hacks ;) & photography
-- [Autystyczne czytajki](https://www.instagram.com/autystyczne.czytajki/) - recenzuję książki o autyzmie i staram się rozpowszechniać progresywne poglądy na neuroróżnorodność
-- [Autyzm i życie z zespołem Aspergera](https://www.facebook.com/zespolasperger) - Blog 38 latka o autyzmie i zespole Aspergera.
+- [Autentyczna Autystyczna](https://www.instagram.com/autentyczna_autystyczna/) - Jestem autystyczna. Zdiagnozowana, ale
+  nadal niedowierzająca.
+- [Autistic Snapshots /Photography & asperger](https://www.facebook.com/aspiphotography) - Autism, Aspergers syndrome,
+  self-advocacy, research news, autism life-hacks ;) & photography
+- [Autystyczne czytajki](https://www.instagram.com/autystyczne.czytajki/) - recenzuję książki o autyzmie i staram się
+  rozpowszechniać progresywne poglądy na neuroróżnorodność
+- [Autyzm i życie z zespołem Aspergera](https://www.facebook.com/zespolasperger) - Blog 38 latka o autyzmie i zespole
+  Aspergera.
 - [Ida ma autyzm](https://www.instagram.com/ida_ma_autyzm/) - Zwyczajna autystyczna dziewczyna
 - [I'm Aspieman](https://www.youtube.com/channel/UCnZjTzN_PIHkdpDiS8sE-zQ)
 - [Ja, Asperger](https://www.facebook.com/wkapeluszukosmity/) - Blog o codzienności odbieranej w nieco odmienny sposób
-- [Neuroatypowe](https://www.youtube.com/channel/UCu3Wj7CHUGzRwG0ri2FESCA) - Trzy autystyczne kobiety. Trzy osobowości, trzy spojrzenia. Zapraszamy do naszego świata.
+- [Neuroatypowe](https://www.youtube.com/channel/UCu3Wj7CHUGzRwG0ri2FESCA) - Trzy autystyczne kobiety. Trzy osobowości,
+  trzy spojrzenia. Zapraszamy do naszego świata.
 - [Nie umiem w dorosłość](https://www.facebook.com/Nie-umiem-w-doros%C5%82o%C5%9B%C4%87-100189304984590/)
 - [Pisarka na spektrum](https://pisarkanaspektrum.pl/)
 - [Piwnica Prezydentki Internetu](https://www.facebook.com/piwnicaq)
@@ -22,22 +24,27 @@ Selekcjonowana lista polskojęzycznych zasobów przeznaczonych dla osób w Spekt
 - [Psycholog na spektrum](https://www.facebook.com/Psycholognaspektrum)
 - [Ruda w spektrum](https://www.instagram.com/ruda_w_spektrum/)
 - [Silent Forge](https://www.facebook.com/SilentForge/) - Blog o życiu z Zespołem Aspergera
-- [Szarosen](https://www.facebook.com/szarosen) - Rysowniczka (jeden z jej rysunków pojawił się na plakatach w całej Polsce)
-- [Ta, co nie wyrosła](https://www.facebook.com/Ta-co-nie-wyros%C5%82a-409330616310909/) - Życie, doświadczenia, spostrzeżenia i przemyślenia kobiety na spektrum autyzmu.
+- [Szarosen](https://www.facebook.com/szarosen) - Rysowniczka (jeden z jej rysunków pojawił się na plakatach w całej
+  Polsce)
+- [Ta, co nie wyrosła](https://www.facebook.com/Ta-co-nie-wyros%C5%82a-409330616310909/) - Życie, doświadczenia,
+  spostrzeżenia i przemyślenia kobiety na spektrum autyzmu.
 - [ZAburzona - autyzm, depresja i inne demony](https://www.facebook.com/ZAburzona-autyzm-depresja-i-inne-demony-103309048149750/)
-- [Zza tęczowej szyby](https://www.facebook.com/zzateczowejszyby/) - Zza tęczowej szyby autyzmu Pola opisuje całe spektrum doświadczeń
+- [Zza tęczowej szyby](https://www.facebook.com/zzateczowejszyby/) - Zza tęczowej szyby autyzmu Pola opisuje całe
+  spektrum doświadczeń
 
 ## Grupy fejsbókowe
 
 - [ADHD, Zespół Aspergera, Autyzm - Warszawa i okolice](https://www.facebook.com/groups/ADHD.ZespolAspergera.Autyzm.Warszawa.i.okolice/)
-- [Autystawka](https://www.facebook.com/groups/Autystawka/) - Sekcja poświęcona zagadnieniom związanym ze spektrum autyzmu, otwarta również dla neurotypowych zainteresowanych tematem.
+- [Autystawka](https://www.facebook.com/groups/Autystawka/) - Sekcja poświęcona zagadnieniom związanym ze spektrum
+  autyzmu, otwarta również dla neurotypowych zainteresowanych tematem.
 - [Autyzm - autentyczność w życiu](https://www.facebook.com/groups/206891433393003/)
 - [Autyzm, dorosłość i co dalej](https://www.facebook.com/groups/autyzm.doroslosc/)
 - [Dorośli z Zespołem Aspergera](https://www.facebook.com/groups/1112099868832792/)
 - [Events](https://www.facebook.com/groups/897320763955792/) - projekt spotkań dla osób z autyzmem, ZA i znajomych.
 - [JAsperger](https://www.facebook.com/groups/2518801461690163/) - grupa dla osób z Aspergerem (i ludzi wokół)
 - [Zespół Aspergera](https://www.facebook.com/groups/zespolaspergera/)
-- [Zespół Aspergera Polska](https://www.facebook.com/groups/AspergerPolska/) - Grupa przeznaczona jest dla osób, które mają zespół Aspergera lub chcą dowiedzieć się więcej na jego temat.
+- [Zespół Aspergera Polska](https://www.facebook.com/groups/AspergerPolska/) - Grupa przeznaczona jest dla osób, które
+  mają zespół Aspergera lub chcą dowiedzieć się więcej na jego temat.
 
 ## Fora internetowe
 
@@ -50,7 +57,8 @@ Selekcjonowana lista polskojęzycznych zasobów przeznaczonych dla osób w Spekt
 - [Autyzm Startup](https://autyzm-startup.pl/)
 - [Fundacja Dziewczyny w spektrum](https://dziewczynawspektrum.wordpress.com/)
 - [Jasna strona spektrum](https://jasnastronaspektrum.pl/) - grupa samorzeczników
-- [JAsperger](https://www.facebook.com/JAspergerPL/) - JAsperger to strona, która ma edukować i rozprawiać się z mitami o Zespole Aspergera. To próba ulepszania świata :)
+- [JAsperger](https://www.facebook.com/JAspergerPL/) - JAsperger to strona, która ma edukować i rozprawiać się z mitami
+  o Zespole Aspergera. To próba ulepszania świata :)
 - [Fundacja Prodeste](http://www.prodeste.pl/)
 - [Neuroróżnorodni](https://www.facebook.com/neurodiversitymovementPL/)
 
@@ -61,7 +69,7 @@ Selekcjonowana lista polskojęzycznych zasobów przeznaczonych dla osób w Spekt
 - Kristine Barnett
     - Błysk
 - Judith Bluestone
-  - Materia autyzmu
+    - Materia autyzmu
 - Elvén Bo Hejlskov
     - Nie gryzę, nie biję, nie krzyczę
 - Alex Brauns
@@ -69,7 +77,7 @@ Selekcjonowana lista polskojęzycznych zasobów przeznaczonych dla osób w Spekt
 - Jennifer Cook O'Toole
     - (Sekretna) księga asperdzieciaka
 - Lisa Genova
-  -  Kochając syna
+    - Kochając syna
 - Gunilla Gerland
     - Prawdziwy człowiek. Osobista opowieść o dorastaniu i edukacji w autyzmie
 - Krystian Głuszko
@@ -112,7 +120,7 @@ Selekcjonowana lista polskojęzycznych zasobów przeznaczonych dla osób w Spekt
 - Ellen Notbohm
     - 10 rzeczy, o których chciałoby ci powiedzieć dziecko z autyzmem
 - Hanna Pasterny
-  - Tandem w szkocką kratkę
+    - Tandem w szkocką kratkę
 - Dawn Prince-Hughes
     - Pieśni plemienia goryli
 - John Elder Robison
