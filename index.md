@@ -4,7 +4,6 @@
 # Blogerzy / Samorzecznicy
 
 - [Amanda Waliszewska](https://www.facebook.com/walmanda?) - a.k.a hakierka
-- [Agnieszka Żak](https://www.instagram.com/agnieszkazakautorka/)
 - [aspergerka](https://www.instagram.com/aspergerka/) - Blaski i cienie dorosłego życia w spektrum autyzmu. Biseksualna
   aspi samorzeczniczka.
 - [Autistic Snapshots /Photography & asperger](https://www.facebook.com/aspiphotography) - Autism, Aspergers syndrome,
@@ -28,8 +27,8 @@
 - [Psycholog na spektrum](https://www.facebook.com/Psycholognaspektrum)
 - [Ruda w spektrum](https://www.instagram.com/ruda_w_spektrum/)
 - [Silent Forge](https://www.facebook.com/SilentForge/) - Blog o życiu z Zespołem Aspergera
-- [Szarosen](https://www.facebook.com/szarosen) - Rysowniczka (jeden z jej rysunków pojawił się na plakatach w całej
-  Polsce)
+- [Szarosen](https://www.instagram.com/szarosen_art/) - Rysowniczka (jeden z jej rysunków pojawił się na plakatach w
+  całej Polsce)
 - [Ta, co nie wyrosła](https://www.facebook.com/Ta-co-nie-wyros%C5%82a-409330616310909/) - Życie, doświadczenia,
   spostrzeżenia i przemyślenia kobiety na spektrum autyzmu.
 - [ZAburzona - autyzm, depresja i inne demony](https://www.facebook.com/ZAburzona-autyzm-depresja-i-inne-demony-103309048149750/)
@@ -90,8 +89,11 @@
     - Byłam dzieckiem autystycznym
     - Myślenie obrazami
     - Mózg autystyczny
+        - [recenzja Idy](https://www.instagram.com/p/CJjMOXon0V2/)
 - Sarah Hendrickx
     - Kobiety i dziewczyny ze spektrum autyzmu
+        - [recenzja Idy](https://www.instagram.com/p/CH5pqteL8sz/)
+        - [recenzja Loli](https://www.instagram.com/p/CHUmqGNnPZ9/)
         - [recenzja Moe](https://www.instagram.com/p/CJnXsy0sqRE/)
 - Naoki Higashida
     - Dlaczego podskakuję
@@ -154,6 +156,5 @@
 
 # Jak wesprzeć
 
-Jeśli uważasz, że czegoś na liście brakuje, czegoś jest za dużo, albo można ją zrobić lepiej, przejdź do "
-kuchni" [projektu](https://github.com/spektrum-autyzmu/spektrum-autyzmu.github.io/), zarejestruj Pull Request, albo
-zgłoś błąd.
+Jeśli uważasz, że czegoś na liście brakuje, czegoś jest za dużo, albo można ją zrobić lepiej, przejdź do "kuchni"
+[projektu](https://github.com/spektrum-autyzmu/spektrum-autyzmu.github.io/), zarejestruj Pull Request, albo zgłoś błąd.
