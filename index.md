@@ -61,6 +61,7 @@
 - [Jasna strona spektrum](https://jasnastronaspektrum.pl/) - grupa samorzeczników
 - [JAsperger](https://www.facebook.com/JAspergerPL/) - JAsperger to strona, która ma edukować i rozprawiać się z mitami
   o Zespole Aspergera. To próba ulepszania świata :)
+- [Stowarzyszenie Mary i Max](https://wolontariatkolezenski.pl/) - m.in. prowadzi wolontariat koleżeński
 - [Fundacja Prodeste](http://www.prodeste.pl/)
 - [Neuroróżnorodni](https://www.facebook.com/neurodiversitymovementPL/)
 
