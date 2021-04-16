@@ -12,6 +12,7 @@ Projekt jest wzorowany na popularnych głównie w środowisku IT Awesome lists.
 
 Zasobem nazywam stronę osoby, organizacji, społeczności albo społeczność w realu. Jeśli masz lepsze słowo, zerknij na dół strony.
 
+**Lista ma być źródłem informacji dla osób w spektrum a nie tablicą ogłoszeniową dla autorów.**
 Ogólnie na listę powinny trafić zasoby już dość popularne, tj, nie wykorzystujemy listy do promowania nowych zasobów ani takich, które nie zyskały szerszego rozgłosu. Ponadto powinny być to zasoby żywe - blogi powinny być aktualizowane, organizacje i społeczności aktywne. 
 
 Zobacz też [listę zasobów na które nie kierujemy](nogolist.md)
