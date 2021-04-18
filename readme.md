@@ -1,6 +1,8 @@
-# [Spektrum autyzmu](https://spektrum-autyzmu.github.io/)
+# [Spektrum autyzmu](https://spektrum-autyzmu.github.io/) # awesome-autism [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 Selekcjonowana lista polskojęzycznych zasobów przeznaczonych dla osób w Spektrum Autyzmu.
+
+<div style="width=auto; margin-left:auto; margin-right:auto" ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Pastel_Neurodiversity_Symbol.png/1200px-Pastel_Neurodiversity_Symbol.png" align="center" height="48" width="100" ></div>
 
 ---
 
