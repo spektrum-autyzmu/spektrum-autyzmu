@@ -38,7 +38,7 @@
 # Społeczności internetowe
 
 - [ADHD, Zespół Aspergera, Autyzm - Warszawa i okolice](https://www.facebook.com/groups/ADHD.ZespolAspergera.Autyzm.Warszawa.i.okolice/)
-- [aspi.net.pl](aspi.net.pl) - Forum dla osób dorosłych z Zespołem Aspergera / NLD / autyzmem wysokofunkcjonującym. Mają
+- [aspi.net.pl](http://aspi.net.pl/) - Forum dla osób dorosłych z Zespołem Aspergera / NLD / autyzmem wysokofunkcjonującym. Mają
   kanał IRC oraz spotkania na Skype
 - [Autystawka](https://www.facebook.com/groups/Autystawka/) - Sekcja poświęcona zagadnieniom związanym ze spektrum
   autyzmu, otwarta również dla neurotypowych zainteresowanych tematem.

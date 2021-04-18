@@ -1,4 +1,4 @@
-# [Spektrum autyzmu](https://spektrum-autyzmu.github.io/)
+# [Spektrum autyzmu](https://spektrum-autyzmu.github.io/) [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 Selekcjonowana lista polskojęzycznych zasobów przeznaczonych dla osób w Spektrum Autyzmu.
 
