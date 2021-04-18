@@ -52,7 +52,7 @@
 - [Zespół Aspergera Polska](https://www.facebook.com/groups/AspergerPolska/) - Grupa przeznaczona jest dla osób, które
   mają zespół Aspergera lub chcą dowiedzieć się więcej na jego temat.
 
-# Oraganizacje
+# Organizacje
 
 - [Fundacja Artonomia](http://artonomia.org/)
 - [Aspiracje](http://aspiracje.com.pl/) - autyzm na koszulkach
