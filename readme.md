@@ -4,7 +4,9 @@
 
 Selekcjonowana lista polskojęzycznych zasobów przeznaczonych dla osób w Spektrum Autyzmu.
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Pastel_Neurodiversity_Symbol.png/1200px-Pastel_Neurodiversity_Symbol.png" align="center" height="48" style="max-width:33%">
+<p align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Pastel_Neurodiversity_Symbol.png/1200px-Pastel_Neurodiversity_Symbol.png" align="center" style="max-width:33%">
+</p>
 
 ---
 
