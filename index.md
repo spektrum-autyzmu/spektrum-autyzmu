@@ -1,6 +1,23 @@
 - Spis treści
 {:toc}
 
+# Społeczności internetowe
+
+- [ADHD, Zespół Aspergera, Autyzm - Warszawa i okolice](https://www.facebook.com/groups/ADHD.ZespolAspergera.Autyzm.Warszawa.i.okolice/)
+- [aspi.net.pl](http://aspi.net.pl/) - Forum dla osób dorosłych z Zespołem Aspergera / NLD / autyzmem wysokofunkcjonującym. Mają
+  kanał IRC oraz spotkania na Skype
+- [Autystawka](https://www.facebook.com/groups/Autystawka/) - Sekcja poświęcona zagadnieniom związanym ze spektrum
+  autyzmu, otwarta również dla neurotypowych zainteresowanych tematem.
+- [Autyzm - autentyczność w życiu](https://www.facebook.com/groups/206891433393003/)
+- [Autyzm, dorosłość i co dalej](https://www.facebook.com/groups/autyzm.doroslosc/)
+- [Dorośli z Zespołem Aspergera](https://www.facebook.com/groups/1112099868832792/) Grupa dla dorosłych z ZA. Ma
+  spotkania na Discord.
+- [Events](https://www.facebook.com/groups/897320763955792/) - projekt spotkań dla osób z autyzmem, ZA i znajomych.
+- [JAsperger](https://www.facebook.com/groups/2518801461690163/) - grupa dla osób z Aspergerem (i ludzi wokół)
+- [Zespół Aspergera](https://www.facebook.com/groups/zespolaspergera/)
+- [Zespół Aspergera Polska](https://www.facebook.com/groups/AspergerPolska/) - Grupa przeznaczona jest dla osób, które
+  mają zespół Aspergera lub chcą dowiedzieć się więcej na jego temat.
+
 # Blogerzy / Samorzecznicy
 
 - [Amanda Waliszewska](https://www.facebook.com/walmanda?) - a.k.a hakierka
@@ -35,35 +52,27 @@
 - [Zza tęczowej szyby](https://www.facebook.com/zzateczowejszyby/) - Zza tęczowej szyby autyzmu Pola opisuje całe
   spektrum doświadczeń
 
-# Społeczności internetowe
-
-- [ADHD, Zespół Aspergera, Autyzm - Warszawa i okolice](https://www.facebook.com/groups/ADHD.ZespolAspergera.Autyzm.Warszawa.i.okolice/)
-- [aspi.net.pl](http://aspi.net.pl/) - Forum dla osób dorosłych z Zespołem Aspergera / NLD / autyzmem wysokofunkcjonującym. Mają
-  kanał IRC oraz spotkania na Skype
-- [Autystawka](https://www.facebook.com/groups/Autystawka/) - Sekcja poświęcona zagadnieniom związanym ze spektrum
-  autyzmu, otwarta również dla neurotypowych zainteresowanych tematem.
-- [Autyzm - autentyczność w życiu](https://www.facebook.com/groups/206891433393003/)
-- [Autyzm, dorosłość i co dalej](https://www.facebook.com/groups/autyzm.doroslosc/)
-- [Dorośli z Zespołem Aspergera](https://www.facebook.com/groups/1112099868832792/) Grupa dla dorosłych z ZA. Ma
-  spotkania na Discord.
-- [Events](https://www.facebook.com/groups/897320763955792/) - projekt spotkań dla osób z autyzmem, ZA i znajomych.
-- [JAsperger](https://www.facebook.com/groups/2518801461690163/) - grupa dla osób z Aspergerem (i ludzi wokół)
-- [Zespół Aspergera](https://www.facebook.com/groups/zespolaspergera/)
-- [Zespół Aspergera Polska](https://www.facebook.com/groups/AspergerPolska/) - Grupa przeznaczona jest dla osób, które
-  mają zespół Aspergera lub chcą dowiedzieć się więcej na jego temat.
-
-# Organizacje
+# Organizacje, diagności i terapeuci
 
 - [Fundacja Artonomia](http://artonomia.org/)
 - [Aspiracje](http://aspiracje.com.pl/) - autyzm na koszulkach
-- [Autyzm Startup](https://autyzm-startup.pl/)
+- [Autyzm Startup](https://autyzm-startup.pl/) - diagnostyka, terapia, szkolenia
+- [Lek. Monika Curyło](https://www.psyche-krakow.pl/) - diagnoza, terapia. Kraków , Myślenice.
+- Dorota Kisiel-Dowejko - psychiatra, diagnostyka Poznań
 - [Fundacja Dziewczyny w spektrum](https://dziewczynawspektrum.wordpress.com/)
+- [Fundacja Na Rzecz Pomocy Dzieciom Niepełnosprawnym](https://nowanadzieja.com.pl/) - Diagnostyka dzieci i dorosłych. Poznań
+- [Centrum terapii JaKto](http://jakto.com.pl/) - terapia, diagnostyka. Poznań
 - [Jasna strona spektrum](https://jasnastronaspektrum.pl/) - grupa samorzeczników
 - [JAsperger](https://www.facebook.com/JAspergerPL/) - JAsperger to strona, która ma edukować i rozprawiać się z mitami
   o Zespole Aspergera. To próba ulepszania świata :)
-- [Stowarzyszenie Mary i Max](https://wolontariatkolezenski.pl/) - m.in. prowadzi wolontariat koleżeński
-- [Fundacja Prodeste](http://www.prodeste.pl/)
+- [Angelika Kleszczewska-Albińska](https://www.facebook.com/profile.php?id=100013630629880) - psycholog, terapeuta
+- [Stowarzyszenie Mary i Max](https://wolontariatkolezenski.pl/) - m.in. prowadzi wolontariat koleżeński, [mapa ośrodków terapeutycznych w Warszawie](https://wolontariatkolezenski.pl/wstronespektrum/)
 - [Neuroróżnorodni](https://www.facebook.com/neurodiversitymovementPL/)
+- [Poradnia dla oósb z autyzmem](http://poradnia-autyzm.pl/) - diagnoza, terapia. Gdańsk.
+- [Fundacja Prodeste](http://www.prodeste.pl/) - diagnostyka, terapia
+- [dr.n.med. Natalia Pytlińska](http://psychiatradzieciecy.info/) - diagnostyka dzici, młodzieży i dorosłych. Poznań
+- [Sotis](http://www.sotis.pl/) - Terapia, diagnoza. Warszawa, Gdańsk, Gdynia.
+- [STER](https://strefaterapii.pl/) - diagnostyka, terapia. Kraków.
 
 # Książki
 
