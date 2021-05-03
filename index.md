@@ -42,6 +42,7 @@
 - [Piwnica Prezydentki Internetu](https://www.facebook.com/piwnicaq)
 - [Psycholog w sieci](https://www.facebook.com/psychologwsieci)
 - [Psycholog na spektrum](https://www.facebook.com/Psycholognaspektrum)
+- [Psychologia ZA](https://www.youtube.com/channel/UCczoerLzB3mtHxX65TsCvCw)
 - [Ruda w spektrum](https://www.instagram.com/ruda_w_spektrum/)
 - [Silent Forge](https://www.facebook.com/SilentForge/) - Blog o życiu z Zespołem Aspergera
 - [Szarosen](https://www.instagram.com/szarosen_art/) - Rysowniczka (jeden z jej rysunków pojawił się na plakatach w
