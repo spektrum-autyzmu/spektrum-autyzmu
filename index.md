@@ -47,8 +47,6 @@
 - [Silent Forge](https://www.facebook.com/SilentForge/) - Blog o życiu z Zespołem Aspergera
 - [Szarosen](https://www.instagram.com/szarosen_art/) - Rysowniczka (jeden z jej rysunków pojawił się na plakatach w
   całej Polsce)
-- [Ta, co nie wyrosła](https://www.facebook.com/Ta-co-nie-wyros%C5%82a-409330616310909/) - Życie, doświadczenia,
-  spostrzeżenia i przemyślenia kobiety na spektrum autyzmu.
 - [ZAburzona - autyzm, depresja i inne demony](https://www.facebook.com/ZAburzona-autyzm-depresja-i-inne-demony-103309048149750/)
 - [Zza tęczowej szyby](https://www.facebook.com/zzateczowejszyby/) - Zza tęczowej szyby autyzmu Pola opisuje całe
   spektrum doświadczeń
@@ -71,9 +69,10 @@
 - [Neuroróżnorodni](https://www.facebook.com/neurodiversitymovementPL/)
 - [Poradnia dla oósb z autyzmem](http://poradnia-autyzm.pl/) - diagnoza, terapia. Gdańsk.
 - [Fundacja Prodeste](http://www.prodeste.pl/) - diagnostyka, terapia
-- [dr.n.med. Natalia Pytlińska](http://psychiatradzieciecy.info/) - diagnostyka dzici, młodzieży i dorosłych. Poznań
+- [dr.n.med. Natalia Pytlińska](http://psychiatradzieciecy.info/) - diagnostyka dzieci, młodzieży i dorosłych. Poznań
 - [Sotis](http://www.sotis.pl/) - Terapia, diagnoza. Warszawa, Gdańsk, Gdynia.
-- [STER](https://strefaterapii.pl/) - diagnostyka, terapia. Kraków.
+- [STER](https://strefaterapii.pl/) - Diagnostyka, terapia. Kraków.
+- [Stowarzyszenie Pomocy Osobom Autystycznym](https://www.spoa.org.pl/) - Konsultacja i diagnostyka młodzieży i dorosłych. Gdańsk.
 
 # Książki
 
