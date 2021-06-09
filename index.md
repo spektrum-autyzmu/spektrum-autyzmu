@@ -53,26 +53,30 @@
 
 # Organizacje, diagności i terapeuci
 
-- [Fundacja Artonomia](http://artonomia.org/)
 - [Aspiracje](http://aspiracje.com.pl/) - autyzm na koszulkach
 - [Autyzm Startup](https://autyzm-startup.pl/) - diagnostyka, terapia, szkolenia
-- [Lek. Monika Curyło](https://www.psyche-krakow.pl/) - diagnoza, terapia. Kraków , Myślenice.
-- Dorota Kisiel-Dowejko - psychiatra, diagnostyka Poznań
+- [Centrum terapii JaKto](http://jakto.com.pl/) - terapia, diagnostyka. Poznań
+- [Fundacja Artonomia](http://artonomia.org/)
 - [Fundacja Dziewczyny w spektrum](https://dziewczynawspektrum.wordpress.com/)
 - [Fundacja Na Rzecz Pomocy Dzieciom Niepełnosprawnym](https://nowanadzieja.com.pl/) - Diagnostyka dzieci i dorosłych. Poznań
-- [Centrum terapii JaKto](http://jakto.com.pl/) - terapia, diagnostyka. Poznań
+- [Fundacja Prodeste](http://www.prodeste.pl/) - diagnostyka, terapia
 - [Jasna strona spektrum](https://jasnastronaspektrum.pl/) - grupa samorzeczników
 - [JAsperger](https://www.facebook.com/JAspergerPL/) - JAsperger to strona, która ma edukować i rozprawiać się z mitami
   o Zespole Aspergera. To próba ulepszania świata :)
-- [Angelika Kleszczewska-Albińska](https://www.facebook.com/profile.php?id=100013630629880) - psycholog, terapeuta
-- [Stowarzyszenie Mary i Max](https://wolontariatkolezenski.pl/) - m.in. prowadzi wolontariat koleżeński, [mapa ośrodków terapeutycznych w Warszawie](https://wolontariatkolezenski.pl/wstronespektrum/)
 - [Neuroróżnorodni](https://www.facebook.com/neurodiversitymovementPL/)
 - [Poradnia dla oósb z autyzmem](http://poradnia-autyzm.pl/) - diagnoza, terapia. Gdańsk.
-- [Fundacja Prodeste](http://www.prodeste.pl/) - diagnostyka, terapia
-- [dr.n.med. Natalia Pytlińska](http://psychiatradzieciecy.info/) - diagnostyka dzieci, młodzieży i dorosłych. Poznań
 - [Sotis](http://www.sotis.pl/) - Terapia, diagnoza. Warszawa, Gdańsk, Gdynia.
 - [STER](https://strefaterapii.pl/) - Diagnostyka, terapia. Kraków.
+- [Stowarzyszenie Mary i Max](https://wolontariatkolezenski.pl/) - m.in. prowadzi wolontariat koleżeński, [mapa ośrodków terapeutycznych w Warszawie](https://wolontariatkolezenski.pl/wstronespektrum/)
 - [Stowarzyszenie Pomocy Osobom Autystycznym](https://www.spoa.org.pl/) - Konsultacja i diagnostyka młodzieży i dorosłych. Gdańsk.
+
+# Specjaliści
+
+- [Lek. Monika Curyło](https://www.psyche-krakow.pl/) - diagnoza, terapia. Kraków , Myślenice.
+- Dorota Kisiel-Dowejko - psychiatra, diagnostyka Poznań
+- [Angelika Kleszczewska-Albińska](https://www.facebook.com/profile.php?id=100013630629880) - psycholog, terapeuta
+- [dr.n.med. Natalia Pytlińska](http://psychiatradzieciecy.info/) - diagnostyka dzieci, młodzieży i dorosłych. Poznań
+
 
 # Książki
 
