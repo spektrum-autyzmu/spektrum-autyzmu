@@ -68,7 +68,7 @@
 - [Sotis](http://www.sotis.pl/) - Terapia, diagnoza. Warszawa, Gdańsk, Gdynia.
 - [STER](https://strefaterapii.pl/) - Diagnostyka, terapia. Kraków.
 - [Stowarzyszenie Mary i Max](https://wolontariatkolezenski.pl/) - m.in. prowadzi wolontariat koleżeński, [mapa ośrodków terapeutycznych w Warszawie](https://wolontariatkolezenski.pl/wstronespektrum/)
-- [Stowarzyszenie Pomocy Osobom Autystycznym](https://www.spoa.org.pl/) - Konsultacja i diagnostyka młodzieży i dorosłych. Gdańsk.
+- [Stowarzyszenie Pomocy Osobom Autystycznym](https://www.spoa.org.pl/) - Konsultacja i diagnostyka młodzieży i dorosłych. Prowadzi centra aktywizacji. Gdańsk, Gdynia.
 
 # Specjaliści
 
@@ -76,7 +76,7 @@
 - Dorota Kisiel-Dowejko - psychiatra, diagnostyka Poznań
 - [Angelika Kleszczewska-Albińska](https://www.facebook.com/profile.php?id=100013630629880) - psycholog, terapeuta
 - [dr.n.med. Natalia Pytlińska](http://psychiatradzieciecy.info/) - diagnostyka dzieci, młodzieży i dorosłych. Poznań
-
+- [Iza Suchta - edukacja seksualna](https://www.instagram.com/santeriz.edukacja.seksualna/) - terapia i edukacja seksualna osób w spektrum autyzmu. Dąbrowa Górnicza
 
 # Książki
 
@@ -119,6 +119,7 @@
 - Lucke Jackson
     - Seks, prochy i zespół Aspergera
         - [recenzja Moe](https://www.instagram.com/p/CK8pAqeH9LG/)
+        - [recenzja Izy Suchty](https://www.instagram.com/p/CLT8ARAn-7J/?utm_source=ig_web_copy_link)
     - Świry, dziwadła i Zespół Aspergera
 - Mirka Jaworska
     - Syndrom czerwonej hulajnogi
