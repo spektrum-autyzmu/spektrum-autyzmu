@@ -1,22 +1,30 @@
 - Spis treści
 {:toc}
 
+# Testy
+
+Testy przesiewowe mówią, że mając wynik pozytywny, prawdopodobnie jesteś w Spektrum, ale nie zastępują diagnozy.
+
+- [Test AQ Simona Baron-Cohena](https://autyzm-startup.pl/asperger-startup/sprawdz-swoje-podejrzenia-test-aq/)
+
 # Społeczności internetowe
 
-- [ADHD, Zespół Aspergera, Autyzm - Warszawa i okolice](https://www.facebook.com/groups/ADHD.ZespolAspergera.Autyzm.Warszawa.i.okolice/)
-- [aspi.net.pl](http://aspi.net.pl/) - Forum dla osób dorosłych z Zespołem Aspergera / NLD / autyzmem wysokofunkcjonującym. Mają
-  kanał IRC oraz spotkania na Skype
-- [Autystawka](https://www.facebook.com/groups/Autystawka/) - Sekcja poświęcona zagadnieniom związanym ze spektrum
-  autyzmu, otwarta również dla neurotypowych zainteresowanych tematem.
-- [Autyzm - autentyczność w życiu](https://www.facebook.com/groups/206891433393003/)
+- [aspi.net.pl](http://aspi.net.pl/) - Forum dla osób dorosłych z Zespołem Aspergera / NLD / autyzmem wysokofunkcjonującym
+- [Autystawka](https://www.facebook.com/groups/Autystawka/) - Grupa poświęcona zagadnieniom związanym ze spektrum
+  autyzmu, otwarta również dla neurotypowych.
 - [Autyzm, dorosłość i co dalej](https://www.facebook.com/groups/autyzm.doroslosc/)
-- [Dorośli z Zespołem Aspergera](https://www.facebook.com/groups/1112099868832792/) Grupa dla dorosłych z ZA. Ma
-  spotkania na Discord.
-- [Events](https://www.facebook.com/groups/897320763955792/) - projekt spotkań dla osób z autyzmem, ZA i znajomych.
-- [JAsperger](https://www.facebook.com/groups/2518801461690163/) - grupa dla osób z Aspergerem (i ludzi wokół)
-- [Zespół Aspergera](https://www.facebook.com/groups/zespolaspergera/)
-- [Zespół Aspergera Polska](https://www.facebook.com/groups/AspergerPolska/) - Grupa przeznaczona jest dla osób, które
-  mają zespół Aspergera lub chcą dowiedzieć się więcej na jego temat.
+- [Dorośli z Zespołem Aspergera](https://www.facebook.com/groups/1112099868832792/) - Grupa dla dorosłych z ZA.
+- [Dziewczyny w spektrum autyzmu](https://www.facebook.com/groups/376752513042580/) - Grupa dla dziewczyn i kobiet w spektrum autyzmu z oficjalną diagnozą lub podejrzeniem spektrum autyzmu. Osoby transpłciowe oraz niebinarne też są mile widziane.
+- [Events](https://www.facebook.com/groups/897320763955792/) - Grupa osób w spektrum i ich znajomych spotykająca się w realu w Warszawie oraz on-line.
+
+# Spotkania
+
+- Warszawa
+  - [Autystawka](https://www.facebook.com/groups/Autystawka/)
+  - [Events](https://www.facebook.com/groups/897320763955792/)
+- Online
+  - [aspi.net.pl](http://aspi.net.pl/) - Spotkania dla członków forum w soboty na Skype
+  - [Dorośli z Zespołem Aspergera](https://www.facebook.com/groups/1112099868832792/) - Spotkania dla członków grupy w środy i soboty na Discord
 
 # Blogerzy / Samorzecznicy
 
@@ -81,6 +89,7 @@
 # Książki
 
 - Tony Attwood
+    - [My daliśmy radę, tobie też się uda](https://harmonia.edu.pl/pl/p/MY-DALISMY-RADE%2C-TOBIE-TEZ-SIE-UDA/1767) - Przewodnik po życiu na świecie dla osób z zespołem Aspergera
     - Zespół Aspergera
 - Kristine Barnett
     - Błysk
