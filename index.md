@@ -179,6 +179,6 @@ Testy przesiewowe mówią, że mając wynik pozytywny, prawdopodobnie jesteś w 
 
 # Kontakt
 
-## [![GitHub](assets/images/gh.png){: .icon}](GitHub) [![Facebook](assets/images/fb.png){: .icon}](Facebook)
+[![GitHub](assets/images/gh.png){: .icon-contact}](https://github.com/spektrum-autyzmu/spektrum-autyzmu.github.io) [![Facebook](assets/images/fb.png){: .icon-contact}](https://www.facebook.com/Spektrum-Autyzmu-103174181991610/)
 
 Sprawdź też listę [nieaktywnych oraz nowych linków](https://github.com/spektrum-autyzmu/spektrum-autyzmu.github.io/blob/master/freezer.md).
