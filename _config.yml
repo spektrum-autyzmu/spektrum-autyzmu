@@ -3,5 +3,8 @@ description: Selekcjonowana lista polskojęzycznych zasobów przeznaczonych dla 
 
 lang: pl-PL
 
-theme: jekyll-theme-slate
+remote_theme: mattesilver/slate
 show_downloads: false
+
+favicon: assets/images/as.png
+favicon_mime: image/png

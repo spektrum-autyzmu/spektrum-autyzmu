@@ -10,7 +10,7 @@ Testy przesiewowe mówią, że mając wynik pozytywny, prawdopodobnie jesteś w 
 # Społeczności internetowe
 
 - [aspi.net.pl](http://aspi.net.pl/) - Forum dla osób dorosłych z Zespołem Aspergera / NLD / autyzmem wysokofunkcjonującym
-- [Autystawka](https://www.facebook.com/groups/Autystawka/) - Grupa poświęcona zagadnieniom związanym ze spektrum
+- [Autystawka ![Autystawka](assets/images/fb.png){: .icon}](https://www.facebook.com/groups/Autystawka/) - Grupa poświęcona zagadnieniom związanym ze spektrum
   autyzmu, otwarta również dla neurotypowych.
 - [Autyzm, dorosłość i co dalej](https://www.facebook.com/groups/autyzm.doroslosc/)
 - [Dorośli z Zespołem Aspergera](https://www.facebook.com/groups/1112099868832792/) - Grupa dla dorosłych z ZA.
@@ -40,11 +40,10 @@ Testy przesiewowe mówią, że mając wynik pozytywny, prawdopodobnie jesteś w 
 - [Ida ma autyzm](https://www.instagram.com/ida_ma_autyzm/) - Zwyczajna autystyczna dziewczyna
 - [I'm Aspieman](https://www.youtube.com/channel/UCnZjTzN_PIHkdpDiS8sE-zQ)
 - [Ja, Asperger](https://www.facebook.com/wkapeluszukosmity/) - Blog o codzienności odbieranej w nieco odmienny sposób
-- [Joanna Ławicka](https://www.instagram.com/aska_lawicka/) - nie tylko zdjęcia kotków
+- [Joanna Ławicka](https://www.instagram.com/aska_lawicka/) - prywatny profil prezes fundacji Prodeste
 - [Katarzyna Zwolska-Płusa](https://www.instagram.com/k.zwolskaplusa/) - poezja i proza
 - [Lola Eyeonyou Potocki](https://www.instagram.com/lola_eyeonyou_potocki/) - artystka
-- [Neuroatypowe](https://www.youtube.com/channel/UCu3Wj7CHUGzRwG0ri2FESCA) - Trzy autystyczne kobiety. Trzy osobowości,
-  trzy spojrzenia. Zapraszamy do naszego świata.
+- [Neuroatypowe](https://www.youtube.com/channel/UCu3Wj7CHUGzRwG0ri2FESCA) - Kanał prowadzony przez autystyczne dziewczyny
 - [Nie umiem w dorosłość](https://www.facebook.com/Nie-umiem-w-doros%C5%82o%C5%9B%C4%87-100189304984590/)
 - [Pisarka na spektrum](https://pisarkanaspektrum.pl/)
 - [Piwnica Prezydentki Internetu](https://www.facebook.com/piwnicaq)
@@ -178,7 +177,8 @@ Testy przesiewowe mówią, że mając wynik pozytywny, prawdopodobnie jesteś w 
 - Dietmar Zöller
     - Gdybym mógł z wami rozmawiać
 
-# Jak wesprzeć
+# Kontakt
 
-Jeśli uważasz, że czegoś na liście brakuje, czegoś jest za dużo, albo można ją zrobić lepiej, przejdź do "kuchni"
-[projektu](https://github.com/spektrum-autyzmu/spektrum-autyzmu.github.io/), zarejestruj Pull Request, albo zgłoś błąd.
+## [![GitHub](assets/images/gh.png){: .icon}](GitHub) [![Facebook](assets/images/fb.png){: .icon}](Facebook)
+
+Sprawdź też listę [nieaktywnych oraz nowych linków](https://github.com/spektrum-autyzmu/spektrum-autyzmu.github.io/blob/master/freezer.md).
