@@ -10,18 +10,17 @@ Testy przesiewowe mówią, że mając wynik pozytywny, prawdopodobnie jesteś w 
 # Społeczności internetowe
 
 - [aspi.net.pl](http://aspi.net.pl/) - Forum dla osób dorosłych z Zespołem Aspergera / NLD / autyzmem wysokofunkcjonującym
-- [Autystawka ![Autystawka](assets/images/fb.png){: .icon}](https://www.facebook.com/groups/Autystawka/) - Grupa poświęcona zagadnieniom związanym ze spektrum
-  autyzmu, otwarta również dla neurotypowych.
-- [Autyzm, dorosłość i co dalej](https://www.facebook.com/groups/autyzm.doroslosc/)
-- [Dorośli z Zespołem Aspergera](https://www.facebook.com/groups/1112099868832792/) - Grupa dla dorosłych z ZA.
-- [Dziewczyny w spektrum autyzmu](https://www.facebook.com/groups/376752513042580/) - Grupa dla dziewczyn i kobiet w spektrum autyzmu z oficjalną diagnozą lub podejrzeniem spektrum autyzmu. Osoby transpłciowe oraz niebinarne też są mile widziane.
-- Events ![Events](assets/images/fb.png){: .icon #events} - Grupa osób w spektrum i ich znajomych spotykająca się w realu w Warszawie oraz on-line. Dostęp przez [Tomka Barańskiego ![Tomasz Barański](assets/images/fb.png){: .icon}](https://www.facebook.com/100007202683967/)
+- [Autystawka ![Autystawka](assets/images/fb.png){: .icon}](https://www.facebook.com/groups/Autystawka/) - Grupa poświęcona zagadnieniom związanym ze spektrum autyzmu, otwarta również dla neurotypowych.{:#autystawka}
+- [Autyzm, dorosłość i co dalej ![Autyzm, dorosłość i co dalej](assets/images/fb.png){: .icon}](https://www.facebook.com/groups/autyzm.doroslosc/) - Grupa dla dorosłych (15+) osób z autyzmem i zespołem Aspergera oraz ich rodzin i bliskich.
+- [Dorośli z Zespołem Aspergera ![Dorośli z Zespołem Aspergera](assets/images/fb.png){: .icon}](https://www.facebook.com/groups/1112099868832792/) - Grupa dla dorosłych z ZA.
+- [Dziewczyny w spektrum autyzmu ![Dziewczyny w spektrum autyzmu](assets/images/fb.png){: .icon}](https://www.facebook.com/groups/376752513042580/) - Grupa dla dziewczyn i kobiet w spektrum autyzmu z oficjalną diagnozą lub podejrzeniem spektrum autyzmu. Osoby transpłciowe oraz niebinarne też są mile widziane.
+- Events ![Events](assets/images/fb.png){: .icon} - Grupa osób w spektrum i ich znajomych spotykająca się w realu w Warszawie oraz on-line. Dostęp przez [Tomka Barańskiego ![Tomasz Barański](assets/images/fb.png){: .icon}](https://www.facebook.com/tomasz.ewpws){:#events}
 - [Zespół Aspergera ![Zespół Aspergera](assets/images/fb.png){: .icon}](https://www.facebook.com/groups/zespolaspergera/) - Grupa otwarta dla dorosłych w spektrum, rodziców oraz specjalistów
 
 # Spotkania
 
 - Warszawa
-  - [Autystawka](https://www.facebook.com/groups/Autystawka/)
+  - [Autystawka](#autystawka)
   - [Events](#events)
 - Online
   - [aspi.net.pl](http://aspi.net.pl/) - Spotkania dla członków forum w soboty na Skype
