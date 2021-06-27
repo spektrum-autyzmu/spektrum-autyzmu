@@ -14,7 +14,7 @@ img.icon {
 	-ms-box-shadow: none;
 }
 
-	img.icon-contact {
-	    @extend img.icon;
-	    height: 2em;
-	}
+img.icon-contact {
+    @extend img.icon;
+    height: 2em;
+}

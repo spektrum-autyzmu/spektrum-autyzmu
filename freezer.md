@@ -6,7 +6,6 @@ Strony do sprawdzenia, nieaktywne, nieaktualizowane, profile społecznościowe o
 - 2021-06-23
   - [Zespół Aspergera Polska](https://www.facebook.com/groups/AspergerPolska/) - Grupa przeznaczona jest dla osób, które
       mają zespół Aspergera lub chcą dowiedzieć się więcej na jego temat. - mało członków grupy
-  - [Zespół Aspergera](https://www.facebook.com/groups/zespolaspergera/) - czekam na dostęp
   - [JAsperger](https://www.facebook.com/groups/2518801461690163/) - grupa dla osób z Aspergerem (i ludzi wokół) - czekam na dostęp
   - [Poradnik przetrwania dla osób z Zespołem Aspergera](http://niegrzecznedzieci.org.pl/asperger/specjalnie-dla-doroslych-z-zespolem-aspergera/poradnik-przetrwania-dla-osob-z-zespolem-aspergera/) czyli w skrócie "podręcznik maskowania". Kontrowersyjny pomysł, przynajmniej dzisiaj (książka z 1997). Do przejrzenia. Pewne rzeczy mogą być przydatne, ale maskowanie wiąże się z przemęczeniem a czasem nawet z utraceniem charakteru na rzecz neurotypowej "persony"
 - 2021-06-18

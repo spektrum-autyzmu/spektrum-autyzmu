@@ -15,13 +15,14 @@ Testy przesiewowe mówią, że mając wynik pozytywny, prawdopodobnie jesteś w 
 - [Autyzm, dorosłość i co dalej](https://www.facebook.com/groups/autyzm.doroslosc/)
 - [Dorośli z Zespołem Aspergera](https://www.facebook.com/groups/1112099868832792/) - Grupa dla dorosłych z ZA.
 - [Dziewczyny w spektrum autyzmu](https://www.facebook.com/groups/376752513042580/) - Grupa dla dziewczyn i kobiet w spektrum autyzmu z oficjalną diagnozą lub podejrzeniem spektrum autyzmu. Osoby transpłciowe oraz niebinarne też są mile widziane.
-- [Events](https://www.facebook.com/groups/897320763955792/) - Grupa osób w spektrum i ich znajomych spotykająca się w realu w Warszawie oraz on-line.
+- Events ![Events](assets/images/fb.png){: .icon #events} - Grupa osób w spektrum i ich znajomych spotykająca się w realu w Warszawie oraz on-line. Dostęp przez [Tomka Barańskiego ![Tomasz Barański](assets/images/fb.png){: .icon}](https://www.facebook.com/100007202683967/)
+- [Zespół Aspergera ![Zespół Aspergera](assets/images/fb.png){: .icon}](https://www.facebook.com/groups/zespolaspergera/) - Grupa otwarta dla dorosłych w spektrum, rodziców oraz specjalistów
 
 # Spotkania
 
 - Warszawa
   - [Autystawka](https://www.facebook.com/groups/Autystawka/)
-  - [Events](https://www.facebook.com/groups/897320763955792/)
+  - [Events](#events)
 - Online
   - [aspi.net.pl](http://aspi.net.pl/) - Spotkania dla członków forum w soboty na Skype
   - [Dorośli z Zespołem Aspergera](https://www.facebook.com/groups/1112099868832792/) - Spotkania dla członków grupy w środy i soboty na Discord
