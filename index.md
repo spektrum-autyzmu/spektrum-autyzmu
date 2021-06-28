@@ -37,12 +37,12 @@ Testy przesiewowe mówią, że mając wynik pozytywny, prawdopodobnie jesteś w 
 - [Autystyczne czytajki ![Autystyczne czytajki](assets/images/ig.svg){: .icon}](https://www.instagram.com/autystyczne.czytajki/) - recenzuję książki o autyzmie i staram się
   rozpowszechniać progresywne poglądy na neuroróżnorodność
 - [Autyzm i życie z zespołem Aspergera ![Autyzm i życie z zespołem Aspergera](assets/images/fb.svg){: .icon}](https://www.facebook.com/zespolasperger)
-  [Psychologia ZA ![I'm Aspieman](assets/images/yt.svg){:icon}](https://www.youtube.com/channel/UCczoerLzB3mtHxX65TsCvCw)
+  [![I'm Aspieman](assets/images/yt.svg){: .icon}](https://www.youtube.com/channel/UCczoerLzB3mtHxX65TsCvCw)
 - [Ida ma autyzm](https://linktr.ee/idatymina)
   [![Ida ma autyzm](assets/images/ig.svg){: .icon}](https://www.instagram.com/ida_ma_autyzm/)
   [![Ida ma autyzm](assets/images/yt.svg){: .icon}](https://www.youtube.com/c/neuroatypowe)
   [![Ida ma autyzm](assets/images/tt.svg){: .icon}](https://tiktok.com/@ida_ma_autyzm) - Zwyczajna autystyczna dziewczyna. Prowadzi listę zespołów diagnostycznych.
-- [I'm Aspieman ![I'm Aspieman](assets/images/yt.svg){:icon}](https://www.youtube.com/channel/UCnZjTzN_PIHkdpDiS8sE-zQ) - kanał, na którym poruszane są kwestie związane z Zespołem Aspergera.
+- [I'm Aspieman ![I'm Aspieman](assets/images/yt.svg){: .icon}](https://www.youtube.com/channel/UCnZjTzN_PIHkdpDiS8sE-zQ) - kanał, na którym poruszane są kwestie związane z Zespołem Aspergera.
 - [Ja, Asperger ![Autyzm i życie z zespołem Aspergera](assets/images/fb.svg){: .icon}](https://www.facebook.com/wkapeluszukosmity/) - Blog o codzienności odbieranej w nieco odmienny sposób
 - [JAsperger ![JAsperger](assets/images/fb.svg){: .icon}](https://www.facebook.com/JAspergerPL/) - JAsperger to strona, która ma edukować i rozprawiać się z mitami
   o Zespole Aspergera. To próba ulepszania świata :)
