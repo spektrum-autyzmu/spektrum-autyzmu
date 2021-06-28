@@ -31,41 +31,42 @@ Testy przesiewowe mówią, że mając wynik pozytywny, prawdopodobnie jesteś w 
 - [Hakierka - Amanda Waliszewska](http://www.hakierka.pl/) [![Hakierka](assets/images/fb.svg){: .icon}](https://www.facebook.com/walmanda) [![Hakierka](assets/images/ig.svg){: .icon}](https://www.instagram.com/hakierka/) - Computers, autism, queer, gay and unicorns.
 - [Aspergerka ![Aspergerka](assets/images/ig.svg){: .icon}](https://www.instagram.com/aspergerka/) - Blaski i cienie dorosłego życia w spektrum autyzmu. Biseksualna
   aspi samorzeczniczka.
-- [Autistic Snapshots ![Autistic Snapshots](assets/images/wp.svg){: .icon}](https://aspiphotography.wordpress.com/)  [![Autistic Snapshots / Photography & asperger](assets/images/fb.svg){: .icon}(https://www.facebook.com/aspiphotography) - Autism, Aspergers syndrome,
+- [Autistic Snapshots ![Autistic Snapshots](assets/images/wp.svg){: .icon}](https://aspiphotography.wordpress.com/)
+  [![Autistic Snapshots / Photography & asperger](assets/images/fb.svg){: .icon}](https://www.facebook.com/aspiphotography) - Autism, Aspergers syndrome,
   self-advocacy, research news, autism life-hacks ;) & photography
 - [Autystyczne czytajki ![Autystyczne czytajki](assets/images/ig.svg){: .icon}](https://www.instagram.com/autystyczne.czytajki/) - recenzuję książki o autyzmie i staram się
   rozpowszechniać progresywne poglądy na neuroróżnorodność
 - [Autyzm i życie z zespołem Aspergera ![Autyzm i życie z zespołem Aspergera](assets/images/fb.svg){: .icon}](https://www.facebook.com/zespolasperger)
-  [Psychologia ZA ![I'm Aspieman](assets/yt.svg){:icon}](https://www.youtube.com/channel/UCczoerLzB3mtHxX65TsCvCw)
+  [Psychologia ZA ![I'm Aspieman](assets/images/yt.svg){:icon}](https://www.youtube.com/channel/UCczoerLzB3mtHxX65TsCvCw)
 - [Ida ma autyzm](https://linktr.ee/idatymina)
-  [![Ida ma autyzm](assets/ig.svg){: .icon}](https://www.instagram.com/ida_ma_autyzm/)
-  [![Ida ma autyzm](assets/yt.svg){: .icon}](https://www.youtube.com/c/neuroatypowe)
-  [![Ida ma autyzm](assets/tt.svg){: .icon}](https://tiktok.com/@ida_ma_autyzm) - Zwyczajna autystyczna dziewczyna. Prowadzi listę zespołów diagnostycznych.
-- [I'm Aspieman ![I'm Aspieman](assets/yt.svg){:icon}](https://www.youtube.com/channel/UCnZjTzN_PIHkdpDiS8sE-zQ) - kanał, na którym poruszane są kwestie związane z Zespołem Aspergera.
+  [![Ida ma autyzm](assets/images/ig.svg){: .icon}](https://www.instagram.com/ida_ma_autyzm/)
+  [![Ida ma autyzm](assets/images/yt.svg){: .icon}](https://www.youtube.com/c/neuroatypowe)
+  [![Ida ma autyzm](assets/images/tt.svg){: .icon}](https://tiktok.com/@ida_ma_autyzm) - Zwyczajna autystyczna dziewczyna. Prowadzi listę zespołów diagnostycznych.
+- [I'm Aspieman ![I'm Aspieman](assets/images/yt.svg){:icon}](https://www.youtube.com/channel/UCnZjTzN_PIHkdpDiS8sE-zQ) - kanał, na którym poruszane są kwestie związane z Zespołem Aspergera.
 - [Ja, Asperger ![Autyzm i życie z zespołem Aspergera](assets/images/fb.svg){: .icon}](https://www.facebook.com/wkapeluszukosmity/) - Blog o codzienności odbieranej w nieco odmienny sposób
-- [JAsperger ![JAsperger](assets/fb.svg){: .icon}](https://www.facebook.com/JAspergerPL/) - JAsperger to strona, która ma edukować i rozprawiać się z mitami
+- [JAsperger ![JAsperger](assets/images/fb.svg){: .icon}](https://www.facebook.com/JAspergerPL/) - JAsperger to strona, która ma edukować i rozprawiać się z mitami
   o Zespole Aspergera. To próba ulepszania świata :)
-- [Joanna Ławicka ![Joanna Ławicka](assets/ig.svg){: .icon}](https://www.instagram.com/aska_lawicka/) - prywatny profil prezes fundacji Prodeste
-- [Katarzyna Zwolska-Płusa ![Katarzyna Zwolska-Płusa](assets/ig.svg){: .icon}](https://www.instagram.com/k.zwolskaplusa/) - poezja, proza
+- [Joanna Ławicka ![Joanna Ławicka](assets/images/ig.svg){: .icon}](https://www.instagram.com/aska_lawicka/) - prywatny profil prezes fundacji Prodeste
+- [Katarzyna Zwolska-Płusa ![Katarzyna Zwolska-Płusa](assets/images/ig.svg){: .icon}](https://www.instagram.com/k.zwolskaplusa/) - poezja, proza
 - [Lola Eyeonyou Potocki](https://linktr.ee/Lola_Potocki)
-  [![Lola Eyeonyou Potocki](assets/ig.svg){: .icon}](https://www.instagram.com/lola_eyeonyou_potocki/)
-  [![Lola Eyeonyou Potocki](assets/sc.svg){: .icon}](https://soundcloud.app.goo.gl/m25V4ePMvy6wgALy8)  - drag queen gadam maluję się performuję
-- [Neuroatypowe ![Neuroatypowe](assets/yt.svg){: .icon}](https://www.youtube.com/c/neuroatypowe)
-  [![Neuroatypowe](assets/fb.svg){: .icon}](https://www.facebook.com/neuroatypowe) - Kanał prowadzony przez autystyczne dziewczyny
-- [Nie umiem w dorosłość ![Nie umiem w dorosłość](assets/fb.svg){: .icon}](https://www.facebook.com/Nie-umiem-w-doros%C5%82o%C5%9B%C4%87-100189304984590/) - "jeśli masz 200 zł oszczędności i Twoim dzisiejszym sukcesem było wzięcie prysznica, to jesteś okej"
+  [![Lola Eyeonyou Potocki](assets/images/ig.svg){: .icon}](https://www.instagram.com/lola_eyeonyou_potocki/)
+  [![Lola Eyeonyou Potocki](assets/images/sc.svg){: .icon}](https://soundcloud.app.goo.gl/m25V4ePMvy6wgALy8)  - drag queen gadam maluję się performuję
+- [Neuroatypowe ![Neuroatypowe](assets/images/yt.svg){: .icon}](https://www.youtube.com/c/neuroatypowe)
+  [![Neuroatypowe](assets/images/fb.svg){: .icon}](https://www.facebook.com/neuroatypowe) - Kanał prowadzony przez autystyczne dziewczyny
+- [Nie umiem w dorosłość ![Nie umiem w dorosłość](assets/images/fb.svg){: .icon}](https://www.facebook.com/Nie-umiem-w-doros%C5%82o%C5%9B%C4%87-100189304984590/) - "jeśli masz 200 zł oszczędności i Twoim dzisiejszym sukcesem było wzięcie prysznica, to jesteś okej"
 - [Pisarka na spektrum](https://pisarkanaspektrum.pl/)
-  [![Pisarka na spektrum](assets/fb.svg){: .icon}](https://www.facebook.com/pisarkanaspektrum/)
-  [![Pisarka na spektrum](assets/ig.svg){: .icon}](https://www.instagram.com/agnieszkazakautorka/) - O tym, jak dorosła autystyczna kobieta radzi sobie (lub nie) w wielkim świecie 
-- [Prezydent Internetu](http://prezydentinternetu.pl/) [![Piwnica Prezydentki Internetu](assets/fb.svg){: .icon}](https://www.facebook.com/piwnicaq) - Blog popkulturalno-nolifestylowy.
-- [Psycholog w sieci](https://www.szadurska-prokopiuk.pl/) [![Psycholog w sieci](assets/fb.svg){: .icon}](https://www.facebook.com/psychologwsieci) - Dla osób zainteresowanych psychologią, psychoterapią i szeroko pojętym zdrowiem psychicznym.
-- [Psycholog na spektrum ![Psycholog na spektrum](assets/fb.svg){: .icon}](https://www.facebook.com/Psycholognaspektrum) - Z zawodu psycholog, z diagnozy osoba w spektrum autyzmu (wg starej klasyfikacji - z ZA) oraz z ADHD.
-- [Ruda w spektrum ![Ruda w spektrum](assets/ig.svg){: .icon}](https://www.instagram.com/ruda_w_spektrum/) - Jestem dorosłą autystką. Zapraszam do mojego neuroatypowego świata
-- [Silent Forge ![Silent Forge](assets/fb.svg){: .icon}](https://www.facebook.com/SilentForge/) - Blog o zyciu i problemach ludzi z Zespołem Aspergera
-- [Szarosen ![Szarosen](assets/fb.svg){: .icon}](https://www.facebook.com/szarosen)
-  [![Szarosen](assets/ig.svg){: .icon}](https://www.instagram.com/szarosen_art/) - Rysowniczka (jeden z jej rysunków pojawił się na plakatach w
+  [![Pisarka na spektrum](assets/images/fb.svg){: .icon}](https://www.facebook.com/pisarkanaspektrum/)
+  [![Pisarka na spektrum](assets/images/ig.svg){: .icon}](https://www.instagram.com/agnieszkazakautorka/) - O tym, jak dorosła autystyczna kobieta radzi sobie (lub nie) w wielkim świecie 
+- [Prezydent Internetu](http://prezydentinternetu.pl/) [![Piwnica Prezydentki Internetu](assets/images/fb.svg){: .icon}](https://www.facebook.com/piwnicaq) - Blog popkulturalno-nolifestylowy.
+- [Psycholog w sieci](https://www.szadurska-prokopiuk.pl/) [![Psycholog w sieci](assets/images/fb.svg){: .icon}](https://www.facebook.com/psychologwsieci) - Dla osób zainteresowanych psychologią, psychoterapią i szeroko pojętym zdrowiem psychicznym.
+- [Psycholog na spektrum ![Psycholog na spektrum](assets/images/fb.svg){: .icon}](https://www.facebook.com/Psycholognaspektrum) - Z zawodu psycholog, z diagnozy osoba w spektrum autyzmu (wg starej klasyfikacji - z ZA) oraz z ADHD.
+- [Ruda w spektrum ![Ruda w spektrum](assets/images/ig.svg){: .icon}](https://www.instagram.com/ruda_w_spektrum/) - Jestem dorosłą autystką. Zapraszam do mojego neuroatypowego świata
+- [Silent Forge ![Silent Forge](assets/images/fb.svg){: .icon}](https://www.facebook.com/SilentForge/) - Blog o zyciu i problemach ludzi z Zespołem Aspergera
+- [Szarosen ![Szarosen](assets/images/fb.svg){: .icon}](https://www.facebook.com/szarosen)
+  [![Szarosen](assets/images/ig.svg){: .icon}](https://www.instagram.com/szarosen_art/) - Rysowniczka (jeden z jej rysunków pojawił się na plakatach w
   całej Polsce)
-- [ZAburzona ![ZAburzona](assets/fb.svg){: .icon}](https://www.facebook.com/ZAburzona-autyzm-depresja-i-inne-demony-103309048149750/)
-- [Zza tęczowej szyby ![Zza tęczowej szyby](assets/fb.svg){: .icon}](https://www.facebook.com/zzateczowejszyby/) - Zza tęczowej szyby autyzmu Pola opisuje całe
+- [ZAburzona ![ZAburzona](assets/images/fb.svg){: .icon}](https://www.facebook.com/ZAburzona-autyzm-depresja-i-inne-demony-103309048149750/)
+- [Zza tęczowej szyby ![Zza tęczowej szyby](assets/images/fb.svg){: .icon}](https://www.facebook.com/zzateczowejszyby/) - Zza tęczowej szyby autyzmu Pola opisuje całe
   spektrum doświadczeń
 
 # Organizacje
@@ -74,13 +75,13 @@ Testy przesiewowe mówią, że mając wynik pozytywny, prawdopodobnie jesteś w 
 - [Autyzm Startup](https://autyzm-startup.pl/) - diagnostyka, terapia, szkolenia
 - [Centrum terapii JaKto](http://jakto.com.pl/) - terapia, diagnostyka. Poznań
 - [Fundacja Artonomia](http://artonomia.org/)
-- [Fundacja Dziewczyny w spektrum ![Fundacja Dziewczyny w spektrum](assets/wp.svg){: .icon}](https://dziewczynawspektrum.wordpress.com/)
+- [Fundacja Dziewczyny w spektrum ![Fundacja Dziewczyny w spektrum](assets/images/wp.svg){: .icon}](https://dziewczynawspektrum.wordpress.com/)
 - [Fundacja Na Rzecz Pomocy Dzieciom Niepełnosprawnym](https://nowanadzieja.com.pl/) - Diagnostyka dzieci i dorosłych. Poznań
 - [Fundacja Prodeste](http://www.prodeste.pl/) - diagnostyka, terapia
 - [Jasna strona spektrum](https://jasnastronaspektrum.pl/) - grupa samorzeczników
-- [Neuroróżnorodni ![Neuroróżnorodni](assets/fb.svg){: .icon}](https://www.facebook.com/neurodiversitymovementPL/)
-  [![Neuroróżnorodni](assets/ig.svg){: .icon}](https://www.instagram.com/neurodiversitymovementpl/)
-  [![Neuroróżnorodni](assets/yt.svg){: .icon}](https://www.youtube.com/channel/UCS3bz7SQV91TS8D16Tk7X9Q) - Udostępniamy materiały różnych formach funkcjonowania mózgu, np. u dyslektyków, autystów czy osób z ADHD. Przyświeca nam idea #więcejniż1neurotyp.
+- [Neuroróżnorodni ![Neuroróżnorodni](assets/images/fb.svg){: .icon}](https://www.facebook.com/neurodiversitymovementPL/)
+  [![Neuroróżnorodni](assets/images/ig.svg){: .icon}](https://www.instagram.com/neurodiversitymovementpl/)
+  [![Neuroróżnorodni](assets/images/yt.svg){: .icon}](https://www.youtube.com/channel/UCS3bz7SQV91TS8D16Tk7X9Q) - Udostępniamy materiały różnych formach funkcjonowania mózgu, np. u dyslektyków, autystów czy osób z ADHD. Przyświeca nam idea #więcejniż1neurotyp.
 - [Poradnia dla oósb z autyzmem](http://poradnia-autyzm.pl/) - diagnoza, terapia. Gdańsk.
 - [Sotis](http://www.sotis.pl/) - Terapia, diagnoza. Warszawa, Gdańsk, Gdynia.
 - [STER](https://strefaterapii.pl/) - Diagnostyka, terapia. Kraków.
