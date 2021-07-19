@@ -14,3 +14,4 @@ Prośby o dodanie linków do listy na stronie, a które już znajdują się tuta
 - [ADHD, Zespół Aspergera, Autyzm - Warszawa i okolice](https://www.facebook.com/groups/ADHD.ZespolAspergera.Autyzm.Warszawa.i.okolice/) - grupa zdominowana przez rodziców
 - [Autyzm - autentyczność w życiu](https://www.facebook.com/groups/206891433393003/) - grupa zdominowana przez rodziców
 - Fundacja JiM - [autispoitation](https://podpisz.to/petycja/niebezpieczna-kampania-apel-o-wstrzymanie-kampanii-autyzm-odmien-moja-historie,723) 
+- [Neuroróżnorodni ![Neuroróżnorodni](assets/images/fb.svg){: .icon}](https://www.facebook.com/neurodiversitymovementPL/) - nie kieruje swojej działalności do osób w spektrum.

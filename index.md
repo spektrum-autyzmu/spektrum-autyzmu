@@ -79,9 +79,6 @@ Testy przesiewowe mówią, że mając wynik pozytywny, prawdopodobnie jesteś w 
 - [Fundacja Na Rzecz Pomocy Dzieciom Niepełnosprawnym](https://nowanadzieja.com.pl/) - Diagnostyka dzieci i dorosłych. Poznań
 - [Fundacja Prodeste](http://www.prodeste.pl/) - diagnostyka, terapia
 - [Jasna strona spektrum](https://jasnastronaspektrum.pl/) - grupa samorzeczników
-- [Neuroróżnorodni ![Neuroróżnorodni](assets/images/fb.svg){: .icon}](https://www.facebook.com/neurodiversitymovementPL/)
-  [![Neuroróżnorodni](assets/images/ig.svg){: .icon}](https://www.instagram.com/neurodiversitymovementpl/)
-  [![Neuroróżnorodni](assets/images/yt.svg){: .icon}](https://www.youtube.com/channel/UCS3bz7SQV91TS8D16Tk7X9Q) - Udostępniamy materiały różnych formach funkcjonowania mózgu, np. u dyslektyków, autystów czy osób z ADHD. Przyświeca nam idea #więcejniż1neurotyp.
 - [Poradnia dla oósb z autyzmem](http://poradnia-autyzm.pl/) - diagnoza, terapia. Gdańsk.
 - [Sotis](http://www.sotis.pl/) - Terapia, diagnoza. Warszawa, Gdańsk, Gdynia.
 - [STER](https://strefaterapii.pl/) - Diagnostyka, terapia. Kraków.
