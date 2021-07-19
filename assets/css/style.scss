@@ -23,4 +23,8 @@ img.icon-contact {
 
 #header_wrap {
     background-image:url("../images/bubbles.png");
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: 100%;
+    background-attachment: scroll;
 }
