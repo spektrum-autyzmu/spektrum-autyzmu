@@ -3,7 +3,7 @@ description: Selekcjonowana lista polskojęzycznych zasobów przeznaczonych dla 
 
 lang: pl-PL
 
-remote_theme: mattesilver/slate
+remote_theme: mattesilver/slate@develop
 show_downloads: false
 
 favicon: assets/images/as.png
