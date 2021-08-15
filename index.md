@@ -50,7 +50,7 @@ Testy przesiewowe mówią, że mając wynik pozytywny, prawdopodobnie jesteś w 
 - [Lola Eyeonyou Potocki](https://linktr.ee/Lola_Potocki)
   [![Lola Eyeonyou Potocki](assets/images/ig.svg){: .icon}](https://www.instagram.com/lola_eyeonyou_potocki/)
   [![Lola Eyeonyou Potocki](assets/images/sc.svg){: .icon}](https://soundcloud.app.goo.gl/m25V4ePMvy6wgALy8)  - drag queen gadam maluję się performuję
-- [![Neuroatypowa](assets/images/fb.svg){: .icon}](https://www.facebook.com/Neuroatypowa/) - ciekawe informacje ze świata neuronauki oraz o neuroróżnorodności, psychologii lub prezentuje inicjatywy, na które warto poświęcić swoje 5 minut.
+- [Neuroatypowa ![Neuroatypowa](assets/images/fb.svg){: .icon}](https://www.facebook.com/Neuroatypowa/) - ciekawe informacje ze świata neuronauki oraz o neuroróżnorodności, psychologii lub prezentuje inicjatywy, na które warto poświęcić swoje 5 minut.
 - [Neuroatypowe ![Neuroatypowe](assets/images/yt.svg){: .icon}](https://www.youtube.com/c/neuroatypowe)
   [![Neuroatypowe](assets/images/fb.svg){: .icon}](https://www.facebook.com/neuroatypowe) - Kanał prowadzony przez autystyczne dziewczyny
 - [Nie umiem w dorosłość ![Nie umiem w dorosłość](assets/images/fb.svg){: .icon}](https://www.facebook.com/Nie-umiem-w-doros%C5%82o%C5%9B%C4%87-100189304984590/) - "jeśli masz 200 zł oszczędności i Twoim dzisiejszym sukcesem było wzięcie prysznica, to jesteś okej"
