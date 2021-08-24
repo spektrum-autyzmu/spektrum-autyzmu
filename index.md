@@ -52,7 +52,7 @@ Testy przesiewowe mówią, że mając wynik pozytywny, prawdopodobnie jesteś w 
   [![Lola Eyeonyou Potocki](assets/images/sc.svg){: .icon}](https://soundcloud.app.goo.gl/m25V4ePMvy6wgALy8)  - drag queen gadam maluję się performuję
 - [Neuroatypowe ![Neuroatypowe](assets/images/yt.svg){: .icon}](https://www.youtube.com/c/neuroatypowe)
   [![Neuroatypowe](assets/images/fb.svg){: .icon}](https://www.facebook.com/neuroatypowe) - Kanał prowadzony przez autystyczne dziewczyny
-- [Nie umiem w dorosłość ![Nie umiem w dorosłość](assets/images/fb.svg){: .icon}](https://www.facebook.com/Nie-umiem-w-doros%C5%82o%C5%9B%C4%87-100189304984590/) - "jeśli masz 200 zł oszczędności i Twoim dzisiejszym sukcesem było wzięcie prysznica, to jesteś okej"
+- [O dorosłości w spektrum bez tabu ![O dorosłości w spektrum bez tabu](assets/images/fb.svg){: .icon}](https://www.facebook.com/o.doroslosci.w.spektrum.bez.tabu/) - Jestem psycholożką i osobą w spektrum autyzmu. Piszę o tym, dlaczego "wysoko funkcjonujący" i "nisko funkcjonujący" są złymi słowami do określania ludzi, i o tym, że jeśli Twoim dzisiejszym sukcesem było wzięcie prysznica, to jesteś okej.
 - [Pisarka na spektrum](https://pisarkanaspektrum.pl/)
   [![Pisarka na spektrum](assets/images/fb.svg){: .icon}](https://www.facebook.com/pisarkanaspektrum/)
   [![Pisarka na spektrum](assets/images/ig.svg){: .icon}](https://www.instagram.com/agnieszkazakautorka/) - O tym, jak dorosła autystyczna kobieta radzi sobie (lub nie) w wielkim świecie 
