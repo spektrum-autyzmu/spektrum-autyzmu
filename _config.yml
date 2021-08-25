@@ -3,7 +3,7 @@ description: Selekcjonowana lista polskojęzycznych zasobów przeznaczonych dla 
 
 lang: pl-PL
 
-remote_theme: spektrum-autyzmu/theme@develop
+remote_theme: spektrum-autyzmu/theme@v1
 show_downloads: false
 
 favicon: assets/images/as.png
