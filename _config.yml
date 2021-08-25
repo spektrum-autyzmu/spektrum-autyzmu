@@ -8,6 +8,7 @@ show_downloads: false
 
 favicon: assets/images/as.png
 favicon_mime: image/png
+goatcounter: 7b76bb
 
 plugins:
    - jekyll-seo-tag
