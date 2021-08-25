@@ -8,3 +8,6 @@ show_downloads: false
 
 favicon: assets/images/as.png
 favicon_mime: image/png
+
+plugins:
+   - jekyll-seo-tag
