@@ -86,11 +86,13 @@ Testy przesiewowe mówią, że mając wynik pozytywny, prawdopodobnie jesteś w 
 
 # Specjaliści
 
-- [Lek. Monika Curyło](https://www.psyche-krakow.pl/) - diagnoza, terapia. Kraków , Myślenice.
+- [Monika Curyło](https://www.psyche-krakow.pl/) - diagnoza, terapia. Kraków, Myślenice.
 - Dorota Kisiel-Dowejko - psychiatra, diagnostyka Poznań
 - [Angelika Kleszczewska-Albińska](https://www.facebook.com/profile.php?id=100013630629880) - psycholog, terapeuta
-- [dr.n.med. Natalia Pytlińska](http://psychiatradzieciecy.info/) - diagnostyka dzieci, młodzieży i dorosłych. Poznań
+- [Natalia Pytlińska](http://psychiatradzieciecy.info/) - diagnostyka dzieci, młodzieży i dorosłych. Poznań.
 - [Iza Suchta - edukacja seksualna](https://www.instagram.com/santeriz.edukacja.seksualna/) - terapia i edukacja seksualna osób w spektrum autyzmu. Dąbrowa Górnicza
+- [Zuzanna Szal](https://panoramafirm.pl/dolno%C5%9Bl%C4%85skie,wroc%C5%82awski,kie%C5%82cz%C3%B3w,ogrodowa,95/zuzanna_szal_gabinet_psychologiczny-zpxorb_gm.html) - psycholog Gestalt. Wrocław, on-line.
+- [Andrzej Wakarow](https://psychiatrzy.pl/lekarze-psychiatrzy/#wakarow) - psychiatra, specjalizuje się w zakresie zaburzeń lękowych, depresyjnych oraz zaburzeń snu. Warszawa, on-line.
 
 # Książki
 
