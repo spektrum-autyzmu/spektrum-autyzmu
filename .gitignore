@@ -1,0 +1,6 @@
+#jekyll
+/.sass-cache/
+/_site/
+
+#JetBrains
+/.idea/
