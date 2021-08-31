@@ -22,8 +22,12 @@ Testy przesiewowe mówią, że mając wynik pozytywny, prawdopodobnie jesteś w 
   - [Autystawka](#autystawka)
   - [Events](#events)
 - Online
-  - [aspi.net.pl](#aspi) - Spotkania dla członków forum w soboty na Skype
-  - [Dorośli z Zespołem Aspergera](#dorosli) - Spotkania dla członków grupy w środy i soboty na Discord
+  - [aspi.net.pl](#aspi) - Spotkania dla członków forum w soboty na Skype.
+  - [Dorośli z Zespołem Aspergera](#dorosli) - Spotkania dla członków grupy w środy i soboty na Discord.
+  - [Events](#events) - Spotkania dla członków grupy codziennie o 22 na Messenger.
+  - [Fundacja Dziewczyny w Spektrum](https://dziewczynywspektrum.pl/nasze-dzialania/samopomoc/)
+    - Grupa rozwojowa dla dziewczyn w spektrum autyzmu w wieku 15-18 lat
+    - Grupa samopomocowa dla dorosłych kobiet w spektrum autyzmu
 
 # Blogerzy / Samorzecznicy
 
@@ -37,6 +41,7 @@ Testy przesiewowe mówią, że mając wynik pozytywny, prawdopodobnie jesteś w 
   rozpowszechniać progresywne poglądy na neuroróżnorodność
 - [Autyzm i życie z zespołem Aspergera ![Autyzm i życie z zespołem Aspergera](assets/images/fb.svg){: .icon}](https://www.facebook.com/zespolasperger)
   [![I'm Aspieman](assets/images/yt.svg){: .icon}](https://www.youtube.com/channel/UCczoerLzB3mtHxX65TsCvCw)
+- [Dziewczyna w spektrum ![Dziewczyna w spektrum](assets/images/wp.svg){: icon}](https://dziewczynawspektrum.wordpress.com/) - Blog Ewy Furgał
 - [Ida ma autyzm](https://linktr.ee/idatymina)
   [![Ida ma autyzm](assets/images/ig.svg){: .icon}](https://www.instagram.com/ida_ma_autyzm/)
   [![Ida ma autyzm](assets/images/yt.svg){: .icon}](https://www.youtube.com/c/neuroatypowe)
@@ -74,7 +79,7 @@ Testy przesiewowe mówią, że mając wynik pozytywny, prawdopodobnie jesteś w 
 - [Autyzm Startup](https://autyzm-startup.pl/) - diagnostyka, terapia, szkolenia
 - [Centrum terapii JaKto](http://jakto.com.pl/) - terapia, diagnostyka. Poznań
 - [Fundacja Artonomia](http://artonomia.org/)
-- [Fundacja Dziewczyny w spektrum ![Fundacja Dziewczyny w spektrum](assets/images/wp.svg){: .icon}](https://dziewczynawspektrum.wordpress.com/)
+- [Fundacja Dziewczyny w spektrum ![Fundacja Dziewczyny w spektrum](assets/images/wp.svg){: .icon}](https://dziewczynywspektrum.pl/) - Jesteśmy organizacją samorzeczniczą, ekipę Fundacji w znakomitej większości tworzą kobiety i osoby lgbt+ w spektrum autyzmu.
 - [Fundacja Na Rzecz Pomocy Dzieciom Niepełnosprawnym](https://nowanadzieja.com.pl/) - Diagnostyka dzieci i dorosłych. Poznań
 - [Fundacja Prodeste](http://www.prodeste.pl/) - diagnostyka, terapia
 - [Jasna strona spektrum](https://jasnastronaspektrum.pl/) - grupa samorzeczników
