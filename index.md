@@ -41,7 +41,7 @@ Testy przesiewowe mówią, że mając wynik pozytywny, prawdopodobnie jesteś w 
   rozpowszechniać progresywne poglądy na neuroróżnorodność
 - [Autyzm i życie z zespołem Aspergera ![Autyzm i życie z zespołem Aspergera](assets/images/fb.svg){: .icon}](https://www.facebook.com/zespolasperger)
   [![I'm Aspieman](assets/images/yt.svg){: .icon}](https://www.youtube.com/channel/UCczoerLzB3mtHxX65TsCvCw)
-- [Dziewczyna w spektrum ![Dziewczyna w spektrum](assets/images/wp.svg){: icon}](https://dziewczynawspektrum.wordpress.com/) - Blog Ewy Furgał
+- [Dziewczyna w spektrum ![Dziewczyna w spektrum](assets/images/wp.svg){: .icon}](https://dziewczynawspektrum.wordpress.com/) - Blog Ewy Furgał
 - [Ida ma autyzm](https://linktr.ee/idatymina)
   [![Ida ma autyzm](assets/images/ig.svg){: .icon}](https://www.instagram.com/ida_ma_autyzm/)
   [![Ida ma autyzm](assets/images/yt.svg){: .icon}](https://www.youtube.com/c/neuroatypowe)
