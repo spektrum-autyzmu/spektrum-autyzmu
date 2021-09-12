@@ -3,6 +3,8 @@ Zamrażarka
 
 Strony do sprawdzenia, nieaktywne, nieaktualizowane, profile społecznościowe o małej popularności.
 
+- 2021-09-12
+  - [ZAburzona ![ZAburzona](assets/images/fb.svg){: .icon}](https://www.facebook.com/ZAburzona-autyzm-depresja-i-inne-demony-103309048149750/) - brak aktualizacji
 - 2021-06-23
   - [Zespół Aspergera Polska](https://www.facebook.com/groups/AspergerPolska/) - Grupa przeznaczona jest dla osób, które
       mają zespół Aspergera lub chcą dowiedzieć się więcej na jego temat. - mało członków grupy

@@ -69,7 +69,6 @@ Testy przesiewowe mówią, że mając wynik pozytywny, prawdopodobnie jesteś w 
 - [Szarosen ![Szarosen](assets/images/fb.svg){: .icon}](https://www.facebook.com/szarosen)
   [![Szarosen](assets/images/ig.svg){: .icon}](https://www.instagram.com/szarosen_art/) - Rysowniczka (jeden z jej rysunków pojawił się na plakatach w
   całej Polsce)
-- [ZAburzona ![ZAburzona](assets/images/fb.svg){: .icon}](https://www.facebook.com/ZAburzona-autyzm-depresja-i-inne-demony-103309048149750/)
 - [Zza tęczowej szyby ![Zza tęczowej szyby](assets/images/fb.svg){: .icon}](https://www.facebook.com/zzateczowejszyby/) - Zza tęczowej szyby autyzmu Pola opisuje całe
   spektrum doświadczeń
 
@@ -77,12 +76,14 @@ Testy przesiewowe mówią, że mając wynik pozytywny, prawdopodobnie jesteś w 
 
 - [Aspiracje](http://aspiracje.com.pl/) - autyzm na koszulkach
 - [Autyzm Startup](https://autyzm-startup.pl/) - diagnostyka, terapia, szkolenia
+  - [AS-App](https://as-app.pl/dla-osob-z-asd/) - Celem portalu jest zwiększenie i przyspieszenie dostępu do usług i aktywności skierowanych do osób z ASD (Autism Spectrum Disorder).
 - [Centrum terapii JaKto](http://jakto.com.pl/) - terapia, diagnostyka. Poznań
-- [Fundacja Artonomia](http://artonomia.org/)
+- [Fundacja Artonomia](http://artonomia.org/) [![Autyzm Blog](assets/images/fb.svg){: .icon}](https://www.facebook.com/autyzmblog/) - terapie, zajęcia, szkolenia, konferencje. Warszawa
 - [Fundacja Dziewczyny w spektrum ![Fundacja Dziewczyny w spektrum](assets/images/wp.svg){: .icon}](https://dziewczynywspektrum.pl/) - Jesteśmy organizacją samorzeczniczą, ekipę Fundacji w znakomitej większości tworzą kobiety i osoby lgbt+ w spektrum autyzmu.
 - [Fundacja Na Rzecz Pomocy Dzieciom Niepełnosprawnym](https://nowanadzieja.com.pl/) - Diagnostyka dzieci i dorosłych. Poznań
 - [Fundacja Prodeste](http://www.prodeste.pl/) - diagnostyka, terapia
 - [Jasna strona spektrum](https://jasnastronaspektrum.pl/) - grupa samorzeczników
+- [Klubokawiarnia Życie jest fajne ![Klubokawiarnia Życie jest fajne](assets/images/fb.svg){: .icon}](https://www.facebook.com/KlubokawiarniaZycieJestFajne/) - miejsce pracy dorosłych autystów. Warszawa
 - [Poradnia dla oósb z autyzmem](http://poradnia-autyzm.pl/) - diagnoza, terapia. Gdańsk.
 - [Sotis](http://www.sotis.pl/) - Terapia, diagnoza. Warszawa, Gdańsk, Gdynia.
 - [STER](https://strefaterapii.pl/) - Diagnostyka, terapia. Kraków.
@@ -154,6 +155,8 @@ Testy przesiewowe mówią, że mając wynik pozytywny, prawdopodobnie jesteś w 
         - [recenzja Moe](https://www.instagram.com/p/CJtBc5-Mbhf/)
 - Marta Kisiel
     - Małe licho i anioł z kamienia
+- Dorota Kotas
+  - Cukry
 - Cathleen Lewis
     - Rex
 - Aaron Likens
@@ -184,6 +187,8 @@ Testy przesiewowe mówią, że mając wynik pozytywny, prawdopodobnie jesteś w 
         - [recenzja Moe](https://www.instagram.com/p/CKD-0UPHQjt/)
 - Daniel Tammet
     - Urodziłem się pewnego błękitnego dnia
+- Wendela Whitcomb Marsh
+  - [Samodzielne życie z autyzmem](https://harmonia.edu.pl/pl/p/SAMODZIELNE-ZYCIE-Z-AUTYZMEM/1914)
 - Donny Williams
     - Nikt nigdzie
 - Grzegorz Zalewski
