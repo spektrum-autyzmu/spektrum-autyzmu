@@ -1,0 +1,125 @@
+@import "../../node_modules/bootstrap/scss/bootstrap";
+
+img.icon {
+  height: 1rem;
+  vertical-align: middle;
+  border: none;
+  margin: 0;
+  padding: 0;
+  box-shadow: none;
+
+  &-contact {
+    @extend .icon;
+    height: 2rem;
+    width: 2rem;
+  }
+}
+
+@each $breakpoint, $container-max-width in $container-max-widths {
+  .sa-container-#{$breakpoint} {
+    max-width: $container-max-width;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+.text-shadow {
+  text-shadow: var(--bs-dark) 0 0 1em;
+}
+
+@mixin vertical-layout {
+  @extend .container-md, .col-xxl-6, .col-lg-9, .col-md-12;
+}
+
+#header-outer {
+  @extend .container-fluid;
+  background-image: url("/images/bubbles.png");
+  background-repeat: no-repeat;
+  background-position: top center;
+  background-attachment: scroll;
+
+  @media (min-width: map-get($grid-breakpoints, 'md')) {
+    background-size: 100%;
+  }
+}
+
+header {
+  @extend .py-5, .text-light, .text-shadow, .sa-container-md;
+
+  > h1 {
+    @extend .display-4, .fw-bold;
+  }
+
+  > h2 {
+    @extend .mb-0, .display-6;
+  }
+
+}
+
+#nav-outer {
+  @extend .bg-dark, .container-fluid;
+
+  nav {
+    @extend .sa-container-md, .nav, .text-light, .justify-content-md-between, .flex-md-row, .flex-column;
+
+    .nav-item {
+      a {
+        @extend .nav-link, .link-light, .text-center, .px-0;
+
+      }
+    }
+  }
+}
+
+main {
+  @extend .pt-3, .sa-container-md;
+}
+
+#footer {
+  @extend .container-fluid, .bg-dark, .text-muted;
+}
+
+footer {
+  @extend .sa-container-xl, .col-12, .py-4, .mt-5, .px-0;
+  @extend .flex-column, .flex-xl-row, .d-flex, .justify-content-xl-between, .align-items-center, .list-unstyled,;
+
+  > * {
+    @extend .nav, .col-xl-4, .justify-content-center, .d-flex, .text-center;
+
+    > li {
+      @extend .ms-3;
+    }
+
+    &:first-child {
+      @extend .text-xl-start, .justify-content-xl-start;
+    }
+
+    &:last-child {
+      @extend .text-xl-end, .justify-content-xl-end;
+    }
+  }
+}
+
+body {
+  background: var(--bs-light);
+}
+
+a {
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+figure {
+  @extend .mb-1;
+}
+
+ul{
+  @extend .mb-0;
+}
+
+ul:empty, ol:empty{
+  display: none;
+}

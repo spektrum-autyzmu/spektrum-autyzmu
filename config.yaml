@@ -1,0 +1,19 @@
+baseURL: https://spektrum-autyzmu.github.io/
+defaultContentLanguage: pl
+
+languageCode: pl-PL
+
+module:
+  hugoVersions:
+    min: 0.56.0
+  imports:
+  - path: github.com/mattesilver/hugo-goat-counter
+
+title: Spektrum Autyzmu
+
+params:
+  description: Strona startowa
+  favicon:
+    mime: image/png
+    src: /images/as.png
+  goatCounterId: 7b76bb

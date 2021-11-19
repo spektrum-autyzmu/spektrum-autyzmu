@@ -1,0 +1,337 @@
+testy:
+  - title: Test AQ Simona Baron-Cohena
+    url: 'https://autyzm-startup.pl/asperger-startup/sprawdz-swoje-podejrzenia-test-aq/'
+grupy:
+  - title: "aspi.net.pl"
+    url: 'http://aspi.net.pl/'
+    id: aspi
+    desc: Forum dla osób dorosłych z Zespołem Aspergera / NLD / autyzmem wysokofunkcjonującym
+  - title: Autystawka
+    url: 'https://www.facebook.com/groups/Autystawka/'
+    id: autystawka
+    desc: Grupa poświęcona zagadnieniom związanym ze spektrum autyzmu, otwarta również dla neurotypowych.
+  - title: Autyzm, dorosłość i co dalej
+    desc: Grupa dla dorosłych (15+) osób z autyzmem i zespołem Aspergera oraz ich rodzin i bliskich.
+    url: https://www.facebook.com/groups/autyzm.doroslosc/
+  - title: Dorośli z Zespołem Aspergera
+    url: https://www.facebook.com/groups/1112099868832792/
+    desc: Grupa dla dorosłych z ZA.
+    id: dorosli
+  - title: Dziewczyny w spektrum autyzmu
+    url: https://www.facebook.com/groups/376752513042580/
+    desc: Grupa dla dziewczyn i kobiet w spektrum autyzmu z oficjalną diagnozą lub podejrzeniem spektrum autyzmu. Osoby transpłciowe oraz niebinarne też są mile widziane.
+  - title: Events
+    url: https://www.facebook.com/tomasz.ewpws
+    desc: Grupa osób w spektrum i ich znajomych spotykająca się w realu w Warszawie oraz on-line. Dostęp przez Tomka Barańskiego
+    id: events
+spotkania:
+  - title: Autystawka
+    url: '#autystawka'
+    desc: Warszawa
+  - title: Events
+    url: '#events'
+    desc: Warszawa + on-line
+  - title: aspi.net.pl
+    url: '#aspi'
+    desc: Spotkania dla członków forum w soboty na Skype.
+  - title: Dorośli z Zespołem Aspergera
+    url: '#dorosli'
+    desc: Spotkania dla członków grupy w środy i soboty na Discord.
+  - title: Fundacja Dziewczyny w Spektrum
+    url: https://dziewczynywspektrum.pl/nasze-dzialania/samopomoc/
+    desc: Grupa rozwojowa dla dziewczyn w spektrum autyzmu w wieku 15-18l oraz Grupa samopomocowa dla dorosłych kobiet w spektrum autyzmu
+blogerzy:
+  - title: Hakierka - Amanda Waliszewska
+    url: https://www.hakierka.pl/
+    desc: Computers, autism, queer, gay and unicorns.
+    links:
+    - url: https://www.facebook.com/walmanda
+    - url: https://www.instagram.com/hakierka/
+  - title: Aspergerka
+    url: https://www.instagram.com/aspergerka/
+    desc: Blaski i cienie dorosłego życia w spektrum autyzmu. Biseksualna aspi samorzeczniczka.
+  - title: Autistic Snapshots
+    url: 'https://aspiphotography.wordpress.com/'
+    desc: Autism, Aspergers syndrome, self-advocacy, research news, autism life-hacks ;) & photography
+    links:
+    - url: https://www.facebook.com/aspiphotography
+  - title: Autystyczne czytajki
+    url: https://www.instagram.com/autystyczne.czytajki/
+    desc: recenzuję książki o autyzmie i staram się rozpowszechniać progresywne poglądy na neuroróżnorodność
+  - title: Autyzm i życie z zespołem Aspergera
+    url: https://www.facebook.com/zespolasperger
+    links:
+    - url: 'https://www.youtube.com/channel/UCczoerLzB3mtHxX65TsCvCw'
+  - title: Dziewczyna w spektrum
+    url: 'https://dziewczynawspektrum.wordpress.com/'
+    desc: Blog Ewy Furgał
+  - title: Ida ma autyzm
+    url: https://linktr.ee/idatymina
+    desc: Zwyczajna autystyczna dziewczyna. Prowadzi listę zespołów diagnostycznych.
+    links:
+    - url: https://www.instagram.com/ida_ma_autyzm/
+    - url: https://www.youtube.com/c/neuroatypowe
+    - url: https://tiktok.com/@ida_ma_autyzm
+  - title: I'm Aspieman
+    url: https://www.youtube.com/channel/UCnZjTzN_PIHkdpDiS8sE-zQ
+    desc: kanał, na którym poruszane są kwestie związane z Zespołem Aspergera.
+  - title: Ja, Asperger
+    url: https://www.facebook.com/wkapeluszukosmity/
+    desc: Blog o codzienności odbieranej w nieco odmienny sposób
+  - title: JAsperger
+    url: https://www.facebook.com/JAspergerPL/
+    desc: JAsperger to strona, która ma edukować i rozprawiać się z mitami o Zespole Aspergera. To próba ulepszania świata :)
+  - title: Joanna Ławicka
+    url: https://www.instagram.com/aska_lawicka/
+    desc: Profil prezes fundacji Prodeste
+  - title: Katarzyna Zwolska-Płusa
+    url: https://www.instagram.com/k.zwolskaplusa/
+    desc: poezja, proza
+  - title: Lola Eyeonyou Potocki
+    url: https://linktr.ee/Lola_Potocki
+    desc: drag queen gadam maluję się performuję
+    links:
+    - url: https://www.instagram.com/lola_eyeonyou_potocki/
+    - url: https://soundcloud.app.goo.gl/m25V4ePMvy6wgALy8
+  - title: Neuroatypowe
+    url: https://www.youtube.com/c/neuroatypowe
+    desc: Kanał prowadzony przez autystyczne dziewczyny
+    links:
+    - url: https://www.facebook.com/neuroatypowe
+  - title: O dorosłości w spektrum bez tabu
+    url: https://www.facebook.com/o.doroslosci.w.spektrum.bez.tabu/
+    desc: Jestem psycholożką i osobą w spektrum autyzmu. Piszę o tym, dlaczego "wysoko funkcjonujący" i "nisko funkcjonujący" są złymi słowami do określania ludzi, i o tym, że jeśli Twoim dzisiejszym sukcesem było wzięcie prysznica, to jesteś okej.
+  - title: Pisarka na spektrum
+    url: https://pisarkanaspektrum.pl/
+    desc: O tym, jak dorosła autystyczna kobieta radzi sobie (lub nie) w wielkim świecie
+    links:
+    - url: https://www.facebook.com/pisarkanaspektrum/
+    - url: https://www.instagram.com/agnieszkazakautorka/
+  - title: Prezydent Internetu
+    url: http://prezydentinternetu.pl/
+    desc: Blog popkulturalno-nolifestylowy.
+    links:
+    - url: https://www.facebook.com/piwnicaq
+      title: Piwnica Prezydentki Internetu
+  - title: Psycholog w sieci
+    url: https://www.szadurska-prokopiuk.pl/
+    desc: Dla osób zainteresowanych psychologią, psychoterapią i szeroko pojętym zdrowiem psychicznym.
+    links:
+    - url: https://www.facebook.com/psychologwsieci
+  - title: Psycholog na spektrum
+    url: https://www.facebook.com/Psycholognaspektrum
+    desc: Z zawodu psycholog, z diagnozy osoba w spektrum autyzmu (wg starej klasyfikacji - z ZA) oraz z ADHD.
+  - title: Ruda w spektrum
+    url: https://www.instagram.com/ruda_w_spektrum/
+    desc: Jestem dorosłą autystką. Zapraszam do mojego neuroatypowego świata
+  - title: Silent Forge
+    url: https://www.facebook.com/SilentForge/
+    desc: Blog o życiu i problemach ludzi z Zespołem Aspergera
+  - title: Szarosen
+    url: https://www.facebook.com/szarosen
+    desc: Rysowniczka (jeden z jej rysunków pojawił się na plakatach w całej Polsce)
+    links:
+    - url: https://www.instagram.com/szarosen_art/
+  - title: Zza tęczowej szyby
+    url: https://www.facebook.com/zzateczowejszyby/
+    desc: Zza tęczowej szyby autyzmu Pola opisuje całe spektrum doświadczeń
+organizacje:
+  - title: Aspiracje
+    url: http://aspiracje.com.pl/
+    desc: autyzm na koszulkach
+  - title: Autyzm Startup
+    url: https://autyzm-startup.pl/
+    desc: diagnostyka, terapia, szkolenia
+    links:
+    - url: https://as-app.pl/dla-osob-z-asd/
+      title: AS-App
+      desc: Celem portalu jest zwiększenie i przyspieszenie dostępu do usług i aktywności skierowanych do osób z ASD (Autism Spectrum Disorder).
+  - title: Centrum terapii JaKto
+    url: http://jakto.com.pl/
+    desc: terapia, diagnostyka. Poznań
+  - title: Fundacja Artonomia
+    url: http://artonomia.org/
+    desc: "terapie, zajęcia, szkolenia, konferencje. Warszawa"
+    links:
+    - title: Autyzm Blog
+      url: https://www.facebook.com/autyzmblog/
+  - title: Fundacja Dziewczyny w spektrum
+    url: https://dziewczynywspektrum.pl/
+    desc: Jesteśmy organizacją samorzeczniczą, ekipę Fundacji w znakomitej większości tworzą kobiety i osoby lgbt+ w spektrum autyzmu.
+  - title: Fundacja Na Rzecz Pomocy Dzieciom Niepełnosprawnym
+    url: https://nowanadzieja.com.pl/
+    desc: Diagnostyka dzieci i dorosłych. Poznań
+  - title: Fundacja Prodeste
+    url: http://www.prodeste.pl/
+    desc: diagnostyka, terapia
+  - title: Jasna strona spektrum
+    url: https://jasnastronaspektrum.pl/
+    desc: grupa samorzeczników
+  - title: Klubokawiarnia Życie jest fajne
+    url: https://www.facebook.com/KlubokawiarniaZycieJestFajne/
+    desc: miejsce pracy dorosłych autystów. Warszawa
+  - title: Poradnia dla oósb z autyzmem
+    url: http://poradnia-autyzm.pl/
+    desc: diagnoza, terapia. Gdańsk.
+  - title: Sotis
+    url: http://www.sotis.pl/
+    desc: Terapia, diagnoza. Warszawa, Gdańsk, Gdynia.
+  - title: STER
+    url: https://strefaterapii.pl/
+    desc: Diagnostyka, terapia. Kraków.
+  - title: Stowarzyszenie Mary i Max
+    url: http://www.maryimax.pl/
+    desc: Stowarzyszenie Innowacji Społecznych
+    links:
+    - url: https://wolontariatkolezenski.pl
+      title: Wolontariat Koleżeński
+      desc:
+    - url: https://wolontariatkolezenski.pl/wstronespektrum/
+      title: Mapa ośrodków terapeutycznych w Warszawie
+      desc:
+  - title: Stowarzyszenie Pomocy Osobom Autystycznym
+    url: https://www.spoa.org.pl/
+    desc: Konsultacja i opiniowanie młodzieży i dorosłych. Prowadzi centra aktywizacji. Gdańsk, Gdynia.
+specjalisci:
+  - title: Monika Curyło
+    url: https://www.psyche-krakow.pl/
+    desc: diagnoza, terapia. Kraków, Myślenice.
+  - title: Dorota Kisiel-Dowejko
+    desc: psychiatra, diagnostyka Poznań
+  - title: Angelika Kleszczewska-Albińska
+    url: https://www.facebook.com/profile.php?id=100013630629880
+    desc: psycholog, terapeuta
+  - title: Natalia Pytlińska
+    url: http://psychiatradzieciecy.info/
+    desc: diagnostyka dzieci, młodzieży i dorosłych. Poznań.
+  - title: Iza Suchta - edukacja seksualna
+    url: https://www.instagram.com/santeriz.edukacja.seksualna/
+    desc: terapia i edukacja seksualna osób w spektrum autyzmu. Dąbrowa Górnicza
+  - title: Zuzanna Szal
+    url: https://panoramafirm.pl/dolno%C5%9Bl%C4%85skie,wroc%C5%82awski,kie%C5%82cz%C3%B3w,ogrodowa,95/zuzanna_szal_gabinet_psychologiczny-zpxorb_gm.html
+    desc: psycholog Gestalt. Wrocław, on-line.
+  - title: Andrzej Wakarow
+    url: https://psychiatrzy.pl/lekarze-psychiatrzy/#wakarow
+    desc: psychiatra, specjalizuje się w zakresie zaburzeń lękowych, depresyjnych oraz zaburzeń snu. Warszawa, on-line.
+ksiazki:
+  - title: My daliśmy radę, tobie też się uda
+    url: https://harmonia.edu.pl/pl/p/MY-DALISMY-RADE%2C-TOBIE-TEZ-SIE-UDA/1767
+    desc: Przewodnik po życiu na świecie dla osób z zespołem Aspergera
+    author: Tony Attwood
+  - title: Zespół Aspergera
+    author: Tony Attwood
+  - title: Błysk
+    author: Kristine Barnett
+  - title: Materia autyzmu
+    author: Judith Bluestone
+  - title: Nie gryzę, nie biję, nie krzyczę
+    author: Elvén Bo Hejlskov
+  - title: Barwne cienie i nietoperze
+    author: Alex Brauns
+  - title: (Sekretna) księga asperdzieciaka
+    author: Jennifer Cook O'Toole
+  - title: Kochając syna
+    author: Lisa Genova
+  - title: Prawdziwy człowiek. Osobista opowieść o dorastaniu i edukacji w autyzmie
+    author: Gunilla Gerland
+  - title: Spektrum
+    author: Krystian Głuszko
+  - title: Szukaj mnie wśród szaleńców
+    author: Krystian Głuszko
+  - title: Byłam dzieckiem autystycznym
+    author: Temple Grandin
+  - title: Myślenie obrazami
+    author: Temple Grandin
+  - title: Mózg autystyczny
+    author: Temple Grandin
+    links:
+    - title: recenzja Idy
+      url: https://www.instagram.com/p/CJjMOXon0V2/
+  - title: Kobiety i dziewczyny ze spektrum autyzmu
+    author: Sarah Hendrickx
+    links:
+    - title: recenzja Idy
+      url: https://www.instagram.com/p/CH5pqteL8sz/
+    - title: recenzja Loli
+      url: https://www.instagram.com/p/CHUmqGNnPZ9/
+    - title: recenzja Moe
+      url: https://www.instagram.com/p/CJnXsy0sqRE/
+  - title: Dlaczego podskakuję
+    author: Naoki Higashida
+  - title: Udawanie normalnej
+    author: Liane Holiday Willey
+  - title: Wszystkie koty mają Zespół Aspergera
+    author: Kathy Hoopmann
+  - title: Wszystkie psy mają ADHD
+    author: Kathy Hoopmann
+  - title: Seks, prochy i zespół Aspergera
+    author: Lucke Jackson
+    links:
+    - title: recenzja Moe
+      url: https://www.instagram.com/p/CK8pAqeH9LG/
+    - title: recenzja Izy Suchty
+      url: https://www.instagram.com/p/CLT8ARAn-7J/
+  - title: Świry, dziwadła i Zespół Aspergera
+    author: Lucke Jackson
+  - title: Syndrom czerwonej hulajnogi
+    author: Mirka Jaworska
+  - title: Kosmita
+    author: Roksana Jędrzejewska - Wróbel
+  - title: Koci świat ASD
+    author: Katja
+  - title: Nieśmiali, skryci i społecznie niedopasowani
+    author: Cynthia Kim
+    links:
+    - title: recenzja Moe
+    - url: https://www.instagram.com/p/CJtBc5-Mbhf/
+  - title: Małe licho i anioł z kamienia
+    author: Marta Kisiel
+  - title: Cukry
+    author: Dorota Kotas
+  - title: Rex
+    author: Cathleen Lewis
+  - title: Odnaleźć Kansas
+    author: Aaron Likens
+  - title: Nie jestem kosmitą
+    author: Joanna Ławicka
+  - title: Człowiek w spektrum autyzmu. Podręcznik pedagogiki empatycznej
+    author: Joanna Ławicka
+  - title: Przyjaciele zwierząt
+    author: Anton Marklund
+  - title: 10 rzeczy, o których chciałoby ci powiedzieć dziecko z autyzmem
+    author: Ellen Notbohm
+  - title: Tandem w szkocką kratkę
+    author: Hanna Pasterny
+  - title: Pieśni plemienia goryli
+    author: Dawn Prince-Hughes
+  - title: Jestem inny. Moje wskazówki dla aspich, ich rodzin i terapeutów
+    author: John Elder Robison
+  - title: Patrz mi w oczy
+    author: John Elder Robison
+    links:
+    - title: recenzja Moe
+    - url: "https://www.instagram.com/p/CL7TzFrHC1l/"
+  - title: Wychowujemy Misiaka
+    author: John Elder Robison
+  - title: Chłopiec z Saturna
+    author: Peter Schmidt
+  - title: Kaktus na walentynki
+    author: Peter Schmidt
+  - title: Neuroplemiona. Dziedzictwo autyzmu i przyszłość neuroróżnorodności
+    author: Steve Silberman
+  - title: Rudy Simone
+    author: Aspergirls
+    links:
+    - title: recenzja Moe
+    - url: https://www.instagram.com/p/CKD-0UPHQjt/
+  - title: Urodziłem się pewnego błękitnego dnia
+    author: Daniel Tammet
+  - title: Samodzielne życie z autyzmem
+    author: Wendela Whitcomb Marsh
+    url: https://harmonia.edu.pl/pl/p/SAMODZIELNE-ZYCIE-Z-AUTYZMEM/1914
+  - title: Nikt nigdzie
+    author: Donny Williams
+  - title: Inne, ale nie gorsze
+    author: Grzegorz Zalewski
+  - title: Gdybym mógł z wami rozmawiać
+    author: Dietmar Zöller

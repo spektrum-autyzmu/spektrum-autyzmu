@@ -1,0 +1,34 @@
+<figure {{if isset . "id"}}id='{{.id}}'{{ end }}>
+{{ if isset . "url"}}
+<a href="{{ .url }}">{{ .title }}
+    {{- partial "main/icon-for" . -}}
+</a>
+{{ else }}
+{{ .title}}
+{{ end }}
+<!-- display links icons only -->
+{{ if isset . "links" }}
+{{ range $link := .links }}
+{{ if not (isset . "desc") }}
+<a href="{{$link.url}}">{{- partial "main/icon-for" $link -}}</a>
+{{ end }}
+{{end}}
+{{end}}
+
+{{- if isset . "desc" }}
+- {{ .desc }}
+{{ end -}}
+
+<!-- display link with descriptions only -->
+
+<ul>
+    {{- if isset . "links" }}
+    {{- range $link := .links }}
+    {{- if (isset . "desc") -}}
+    <li><a href="{{$link.url}}">{{- partial "main/icon-for" $link -}} {{.title}}</a> {{ if (not (eq .desc nil)) }} - "{{.desc}}"{{end}}</li>
+    {{- end -}}
+    {{end -}}
+    {{end -}}
+</ul>
+
+</figure>

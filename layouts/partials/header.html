@@ -1,0 +1,16 @@
+<div id="header-outer">
+    <header>
+        <h1>{{ site.Title }}</h1>
+        <h2>{{ site.Params.description }}</h2>
+    </header>
+</div>
+
+<div id="nav-outer">
+    <nav>
+        {{ range site.Data.index }}
+        <span class="nav-item">
+            <a href="#{{ .key }}">{{ .title }}</a>
+        </span>
+        {{ end }}
+    </nav>
+</div>

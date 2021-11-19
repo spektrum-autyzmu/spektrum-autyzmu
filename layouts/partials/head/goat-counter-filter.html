@@ -1,0 +1,19 @@
+<script>
+    // Only load on production environment.
+    if (window.location.pathname == '/staging/')
+        window.goatcounter = {no_onload: true}
+</script>
+<script>
+    function installBeacon() {
+        for (const elem of document.querySelectorAll('main a')) {
+            elem.href.startsWith(window.location.origin) || elem.addEventListener('click', e => {
+                goatcounter.filter() || navigator.sendBeacon(goatcounter.url({
+                    path: e.target.href,
+                    event: true,
+                }));
+            })
+        }
+    }
+
+    window.addEventListener('load', installBeacon);
+</script>
