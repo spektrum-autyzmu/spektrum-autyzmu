@@ -21,5 +21,5 @@ params:
   title: Spektrum Autyzmu
   favicon:
     mime: image/png
-    src: /images/as.png
+    src: images/as.png
   goatCounterId: 7b76bb
