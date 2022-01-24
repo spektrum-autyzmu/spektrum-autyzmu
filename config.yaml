@@ -9,10 +9,16 @@ module:
   imports:
   - path: github.com/mattesilver/hugo-goat-counter
 
+taxonomies:
+disableKinds:
+- sitemap
+- RSS
+
 title: Spektrum Autyzmu
 
 params:
   description: Strona startowa
+  title: Spektrum Autyzmu
   favicon:
     mime: image/png
     src: /images/as.png

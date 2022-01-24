@@ -6,7 +6,7 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"
         async></script>
-<title>{{ .Title }}</title>
+<title>{{ site.Title }} - {{ site.Params.description }}</title>
 
 {{ if site.Params.favicon -}}
 <link rel="icon" {{ if site.Params.favicon.mime }}type="{{ site.Params.favicon.mime }}" {{ end }}href="{{ site.Params.favicon.src }}">

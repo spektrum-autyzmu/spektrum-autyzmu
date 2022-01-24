@@ -1,0 +1,39 @@
+<!-- 
+schema:
+  title: optional string
+  description: optional string
+  href: optional string URL
+  links: list of $schema
+-->
+
+{{- if isset . "href" -}}
+<a href="{{ .href }}">
+{{- end -}}
+{{- .title }} {{ partial "main/icon-for" . -}}
+{{- if isset . "href" -}}
+</a>
+{{- end -}}
+<!-- display links without description only -->
+{{- if isset . "links" }}
+{{- range $link := .links }}
+{{- if not (isset $link "description") }}
+    {{ partial "main/link-silent" $link}}
+{{- end -}}
+{{- end -}}
+{{- end -}}
+
+{{- with .description }} - {{ . }}{{ end -}}
+
+<!-- display link with descriptions only -->
+
+{{- if isset . "links" }}
+<ul>
+    {{- range $link := .links -}}
+    {{- if isset $link "description" }}
+    <li>
+        {{ partial "main/link" $link }}
+    </li>
+    {{- end -}}
+    {{- end }}
+</ul>
+{{- end -}}

@@ -1,0 +1,36 @@
+<article {{- with .Params.id}} id='{{.}}'{{ end }}>
+    {{- with .Params -}}
+    <!--
+schema:
+  title: string
+  author: string
+  description: optional string
+  href: optional string URL
+  links: list of $schema
+-->
+    {{ .author }};
+    {{- if isset . "href" }}
+    <a href="{{ .href }}">{{ .title }}</a>
+    {{- else }}
+    {{ .title }}
+    {{- end -}}
+    
+    {{- if isset . "href" -}}
+        </a>
+    {{- end -}}
+
+    {{- with .description }} - {{ . }}{{ end -}}
+
+    <!-- display link with descriptions only -->
+
+    {{- if isset . "links" }}
+    <ul>
+        {{- range $link := .links }}
+        <li>
+            {{ partial "main/link" $link }}
+        </li>
+        {{- end }}
+    </ul>
+    {{- end -}}
+{{- end}}
+</article>

@@ -1,34 +1,33 @@
-{{$data := newScratch}}
-{{if hasPrefix .url "https://www.deviantart.com/"}}
-{{$data.Set "icon" "da"}}
-{{$data.Set "title" "DeviantArt.com"}}
-{{else if or (hasPrefix .url "https://www.facebook.com/") (hasPrefix .url "https://fb.me/")}}
-{{$data.Set "icon" "fb"}}
-{{$data.Set "title" "Facebook.com"}}
-{{else if hasPrefix .url "https://www.github.com/"}}
-{{$data.Set "icon" "gh"}}
-{{$data.Set "title" "GitHub.com"}}
-{{else if hasPrefix .url "https://www.instagram.com/"}}
-{{$data.Set "icon" "ig"}}
-{{$data.Set "title" "Instagram.com"}}
-{{else if hasPrefix .url "https://www.soundcloud.com/"}}
-{{$data.Set "icon" "sc"}}
-{{$data.Set "title" "SoundCloud.com"}}
-{{else if hasPrefix .url "https://www.tiktok.com/"}}
-{{$data.Set "icon" "tt"}}
-{{$data.Set "title" "TickTock.com"}}
-{{else if strings.HasSuffix .url ".wordpress.com/"}}
-{{$data.Set "icon" "wp"}}
-{{$data.Set "title" "WordPress.com"}}
-{{else if hasPrefix .url "https://www.twitter.com/"}}
-{{$data.Set "icon" "tw"}}
-{{$data.Set "title" "Twitter.com"}}
-{{else if hasPrefix .url "https://www.youtube.com/"}}
-{{$data.Set "icon" "yt"}}
-{{$data.Set "title" "YouTube.com"}}
-{{else}}
-{{$data.Set "icon" "--none--"}}
-{{end}}
-{{if ne ($data.Get "icon") "--none--" }}
-<img class="icon" src='/images/{{$data.Get "icon"}}.svg' alt='{{.title | default ($data.Get "title") }}' title='{{.title | default ($data.Get "title") }}'>
-{{- end}}
+{{$data := newScratch -}}
+{{if hasPrefix .href "https://www.deviantart.com/" -}}
+{{$data.Set "icon" "da" -}}
+{{$data.Set "title" "DeviantArt.com" -}}
+{{else if or (hasPrefix .href "https://www.facebook.com/") (hasPrefix .href "https://fb.me/") -}}
+{{$data.Set "icon" "fb" -}}
+{{$data.Set "title" "Facebook.com" -}}
+{{else if hasPrefix .href "https://www.github.com/" -}}
+{{$data.Set "icon" "gh" -}}
+{{$data.Set "title" "GitHub.com" -}}
+{{else if hasPrefix .href "https://www.instagram.com/" -}}
+{{$data.Set "icon" "ig" -}}
+{{$data.Set "title" "Instagram.com" -}}
+{{else if hasPrefix .href "https://www.soundcloud.com/" -}}
+{{$data.Set "icon" "sc" -}}
+{{$data.Set "title" "SoundCloud.com" -}}
+{{else if hasPrefix .href "https://www.tiktok.com/" -}}
+{{$data.Set "icon" "tt" -}}
+{{$data.Set "title" "TickTock.com" -}}
+{{else if strings.HasSuffix .href ".wordpress.com/" -}}
+{{$data.Set "icon" "wp" -}}
+{{$data.Set "title" "WordPress.com" -}}
+{{else if hasPrefix .href "https://www.twitter.com/" -}}
+{{$data.Set "icon" "tw" -}}
+{{$data.Set "title" "Twitter.com" -}}
+{{else if hasPrefix .href "https://www.youtube.com/" -}}
+{{$data.Set "icon" "yt" -}}
+{{$data.Set "title" "YouTube.com" -}}
+{{else -}}
+{{$data.Set "icon" "--none--" -}}
+{{end -}}
+{{if ne ($data.Get "icon") "--none--" }}<img class="icon" src='/images/{{$data.Get "icon"}}.svg' alt='{{.title | default ($data.Get "title") }}' title='{{.title | default ($data.Get "title") }}'>
+{{- end  -}}

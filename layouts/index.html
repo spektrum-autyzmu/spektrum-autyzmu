@@ -8,7 +8,13 @@
 
 {{ partial "header.html" . }}
 
-{{ partial "main/main.html" . }}
+<main>
+    {{- range sort .Page.Sections "Weight" -}}
+    {{ if gt (len .Pages) 0 }}
+    {{- .Render }}
+    {{- end -}}
+    {{- end -}}
+</main>
 
 {{ partial "footer.html" }}
 </body>
