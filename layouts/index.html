@@ -9,6 +9,12 @@
 {{ partial "header.html" . }}
 
 <main>
+    {{- with .Content}}
+    <header id="intro">
+        {{.}}
+    </header>
+    {{ end }}
+
     {{- range sort .Page.Sections "Weight" -}}
     {{ if gt (len .Pages) 0 }}
     {{- .Render }}
