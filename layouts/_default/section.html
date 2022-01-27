@@ -6,7 +6,7 @@
     {{- end }}
     </header>
     
-    {{- range sort .Pages "Weight" -}}
+    {{- range sort .Pages "Title" -}}
     {{- .Render }}
     {{- end -}}
 </section>

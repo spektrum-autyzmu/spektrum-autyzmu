@@ -119,6 +119,11 @@ a {
 
 article {
   @extend .mb-1;
+
+  p {
+    // using Hugos .Content inline, but Hugo wraps it in P. This cancels it out
+    display: inline;
+  }
 }
 
 ul{

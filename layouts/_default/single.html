@@ -1,3 +1,7 @@
 <article {{- with .Params.id}} id='{{.}}'{{ end }}>
+{{- if not (isset .Params "description")}}
+    {{partial "main/link" (merge .Params (dict "description" .Content)) }}
+{{ else}}
     {{partial "main/link" .Params }}
+{{ end -}}
 </article>
