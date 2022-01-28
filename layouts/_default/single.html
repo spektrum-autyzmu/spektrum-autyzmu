@@ -1,4 +1,4 @@
-<article {{- with .Params.id}} id='{{.}}'{{ end }}>
+<article {{- with .Params.id}} id='{{.}}'{{ end }} name='{{ .Title }}'>
 {{- if not (isset .Params "description")}}
     {{ partial "main/link" (merge .Params (dict "description" .Content))}}
 {{- else}}

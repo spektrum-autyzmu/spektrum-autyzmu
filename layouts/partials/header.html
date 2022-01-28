@@ -7,7 +7,7 @@
 
 <div id="nav-outer">
     <nav>
-        {{- range sort .Page.Sections "Weight" }}
+        {{- range sort .Page.Sections "Weight" -}}
         {{ if gt (len .Pages) 0 }}
         <span class="nav-item">
             <a href="#{{ .Params.id | default (.Title | urlize) }}">{{ .Title }}</a>

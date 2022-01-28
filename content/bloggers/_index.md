@@ -1,5 +1,5 @@
 ---
-slug: bloggers
-title: Blogerzy
+slug: people
+title: Osoby
 weight: 3
 ---

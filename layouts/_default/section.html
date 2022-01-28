@@ -1,13 +1,12 @@
-<section id='{{ .Params.id | default (.Title | urlize) }}'>
+<section id='{{ .Params.id | default (.Title | urlize) }}' name='{{ .Title }}'>
     <header>
-    <h1>{{ .Title }}</h1>
-    {{- with .Description }}
-    <p>{{ . }}</p>
-    {{- end }}
+        <h1>{{ .Title }}</h1>
+        {{- with .Description }}
+        <p>{{ . }}</p>
+        {{- end }}
     </header>
     
-    {{- range sort .Pages "Title" -}}
-    {{- .Render }}
+    {{- range sort .Pages "Title" }}
+    {{ .Render }}
     {{- end -}}
 </section>
-

@@ -1,4 +1,4 @@
-<section id='{{ .Params.id | default (.Title | urlize) }}'>
+<section id='{{ .Params.id | default (.Title | urlize) }}' name='{{ .Title }}'>
     <header>
     <h1>{{ .Title }}</h1>
     {{- with .Description }}
@@ -10,4 +10,3 @@
     {{- .Render }}
     {{- end -}}
 </section>
-

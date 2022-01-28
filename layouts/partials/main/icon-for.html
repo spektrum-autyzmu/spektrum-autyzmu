@@ -29,5 +29,5 @@
 {{else -}}
 {{$data.Set "icon" "--none--" -}}
 {{end -}}
-{{if ne ($data.Get "icon") "--none--" }}<img class="icon" src='images/{{$data.Get "icon"}}.svg' alt='{{.title | default ($data.Get "title") }}' title='{{.title | default ($data.Get "title") }}'>
+{{if ne ($data.Get "icon") "--none--" }} <img class="icon" src='images/{{$data.Get "icon"}}.svg' alt='{{.title | default ($data.Get "title") }}' title='{{.title | default ($data.Get "title") }}'>
 {{- end  -}}

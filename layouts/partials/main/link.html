@@ -9,7 +9,7 @@ schema:
 {{- if isset . "href" -}}
 <a href="{{ .href }}">
 {{- end -}}
-{{- .title }} {{ partial "main/icon-for" . -}}
+{{- .title }}{{ partial "main/icon-for" . -}}
 {{- if isset . "href" -}}
 </a>
 {{- end -}}

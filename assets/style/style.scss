@@ -41,18 +41,19 @@ img.icon {
   @media (min-width: map-get($grid-breakpoints, 'md')) {
     background-size: 100%;
   }
-    header {
-      @extend .py-5, .sa-container-md;
-    
-      > h1 {
-        @extend .text-light, .text-shadow, .display-4, .fw-bold;
-      }
-    
-      > h2 {
-        @extend .text-light, .text-shadow, .mb-0, .display-6;
-      }
-    
+
+  header {
+    @extend .py-5, .sa-container-md;
+
+    > h1 {
+      @extend .text-light, .text-shadow, .display-4, .fw-bold;
     }
+
+    > h2 {
+      @extend .text-light, .text-shadow, .mb-0, .display-6;
+    }
+
+  }
 }
 
 #nav-outer {
@@ -75,10 +76,14 @@ main {
   section:not(:first-of-type) h1 {
     margin-top: .75em;
   }
-  h1{
+
+  h1 {
     margin-bottom: .5em;
   }
 
+  a {
+    color: inherit;
+  }
 }
 
 #footer {
@@ -111,10 +116,10 @@ body {
 }
 
 a {
-  text-decoration: none;
+  text-decoration: underline;
 
   &:hover {
-    text-decoration: underline;
+    color: inherit;
   }
 }
 
@@ -122,15 +127,15 @@ article {
   @extend .mb-1;
 
   p {
-    // using Hugos .Content inline, but Hugo wraps it in P. This cancels it out
+    // using Hugos .Content inline, but Hugo wraps it in <p>. This cancels it out
     display: inline;
   }
 }
 
-ul{
+ul {
   @extend .mb-0;
 }
 
-ul:empty, ol:empty{
+ul:empty, ol:empty {
   display: none;
 }
