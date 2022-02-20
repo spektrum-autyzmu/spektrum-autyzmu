@@ -5,8 +5,8 @@
     <p>{{ . }}</p>
     {{- end }}
     </header>
-    
-    {{- range sort .Pages "Params.author" -}}
+
+    {{- range  (.Pages.ByTitle).ByParam "author" -}}
     {{- .Render }}
     {{- end -}}
 </section>
