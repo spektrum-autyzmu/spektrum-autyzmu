@@ -43,3 +43,9 @@ Jeśli uważasz, że należy listę zmienić:
     - wersja dla odważnych - zakładka Pull Requests
 - W przeciwnym wypadku:
     - [Spektrum Autyzmu na Fejsbóku](https://www.facebook.com/Spektrum-Autyzmu-103174181991610/)
+
+# Generowanie strony
+
+```shell
+hugo --cleanDestinationDir -d ../spektrum-autyzmu.github.io --gc --i18n-warnings  --path-warnings
+```
