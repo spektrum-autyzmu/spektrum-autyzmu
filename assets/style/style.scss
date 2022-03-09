@@ -129,6 +129,14 @@ article {
   p {
     // using Hugos .Content inline, but Hugo wraps it in <p>. This cancels it out
     display: inline;
+    @extend .mb-0;
+  }
+}
+
+#książki {
+  p {
+    @extend .px-4, .py-0, .mb-0;
+    display: block;
   }
 }
 

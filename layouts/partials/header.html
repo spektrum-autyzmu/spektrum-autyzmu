@@ -10,7 +10,7 @@
         {{- range sort .Page.Sections "Weight" -}}
         {{ if gt (len .Pages) 0 }}
         <span class="nav-item">
-            <a href="#{{ .Params.id | default (.Title | urlize) }}">{{ .Title }}</a>
+            <a href="#{{ .Params.id | default (.Title | anchorize) }}">{{ .Title }}</a>
         </span>
         {{- end }}
         {{- end }}

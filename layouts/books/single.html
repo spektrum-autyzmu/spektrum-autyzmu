@@ -14,7 +14,7 @@ schema:
     {{- else }}
     {{ .title }}
     {{- end -}}
-    
+
     {{- if isset . "href" -}}
         </a>
     {{- end -}}
@@ -33,4 +33,7 @@ schema:
     </ul>
     {{- end -}}
 {{- end}}
+{{- with .Content}}
+    {{ . }}
+{{end -}}
 </article>

@@ -1,9 +1,9 @@
-<section id='{{ .Params.id | default (.Title | urlize) }}' name='{{ .Title }}'>
+<section id='{{ .Params.id | default (.Title | anchorize) }}' name='{{ .Title }}'>
     <header>
-    <h1>{{ .Title }}</h1>
-    {{- with .Description }}
-    <p>{{ . }}</p>
-    {{- end }}
+        <h1>{{ .Title }}</h1>
+        {{- with .Description }}
+        <p>{{ . }}</p>
+        {{- end }}
     </header>
 
     {{- range  (.Pages.ByTitle).ByParam "author" -}}
